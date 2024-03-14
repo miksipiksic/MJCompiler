@@ -1,0 +1,40 @@
+INFO  13:01:11,364 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  13:01:11,423 - #2 program
+INFO  13:01:11,423 - #48 MJProgram
+INFO  13:01:11,424 - #5 namespace
+INFO  13:01:11,424 - #48 x
+INFO  13:01:11,424 - #3 {
+INFO  13:01:11,424 - #7 const
+INFO  13:01:11,424 - #48 int
+INFO  13:01:11,424 - #48 a
+INFO  13:01:11,427 - #8 =
+INFO  13:01:11,427 - #47 5
+INFO  13:01:11,427 - #6 ,
+INFO  13:01:11,429 - #48 b
+INFO  13:01:11,429 - #8 =
+INFO  13:01:11,430 - #47 7
+INFO  13:01:11,430 - #11 ;
+INFO  13:01:11,431 - #48 int
+INFO  13:01:11,432 - #48 x
+INFO  13:01:11,432 - #13 [
+INFO  13:01:11,433 - #14 ]
+INFO  13:01:11,433 - #6 ,
+INFO  13:01:11,435 - #48 y
+INFO  13:01:11,435 - #13 [
+INFO  13:01:11,438 - #14 ]
+INFO  13:01:11,438 - #11 ;
+INFO  13:01:11,439 - #48 int
+INFO  13:01:11,441 - #48 z
+INFO  13:01:11,441 - #6 ,
+INFO  13:01:11,442 - #48 o
+INFO  13:01:11,442 - #11 ;
+INFO  13:01:11,443 - #3 {
+INFO  13:01:11,444 - #48 int
+INFO  13:01:11,444 - #48 methd
+INFO  13:01:11,445 - #15 (
+INFO  13:01:11,445 - #48 int
+INFO  13:01:11,445 - #48 x
+INFO  13:01:11,445 - #6 ,
+ERROR 13:01:11,446 - 
+Sintaksna greska na liniji 9
+ERROR 13:01:11,447 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

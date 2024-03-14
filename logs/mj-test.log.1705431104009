@@ -1,0 +1,1724 @@
+INFO  19:46:50,200 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\test301.mj
+INFO  19:46:50,264 - #2 program
+INFO  19:46:50,265 - #46 test301
+INFO  19:46:50,265 - #5 namespace
+INFO  19:46:50,267 - #46 Konstante
+INFO  19:46:50,267 - #3 {
+INFO  19:46:50,267 - #7 const
+INFO  19:46:50,268 - #46 int
+INFO  19:46:50,268 - #46 nula
+INFO  19:46:50,270 - #8 =
+INFO  19:46:50,270 - #45 0
+INFO  19:46:50,270 - #9 ;
+INFO  19:46:50,272 - #7 const
+INFO  19:46:50,274 - #46 int
+INFO  19:46:50,274 - #46 jedan
+INFO  19:46:50,274 - #8 =
+INFO  19:46:50,274 - #45 1
+INFO  19:46:50,274 - #9 ;
+INFO  19:46:50,275 - #7 const
+INFO  19:46:50,275 - #46 int
+INFO  19:46:50,275 - #46 pet
+INFO  19:46:50,275 - #8 =
+INFO  19:46:50,278 - #45 5
+INFO  19:46:50,278 - #9 ;
+INFO  19:46:50,278 - #3 {
+INFO  19:46:50,279 - #4 }
+INFO  19:46:50,280 - #4 }
+INFO  19:46:50,281 - #5 namespace
+INFO  19:46:50,282 - #46 Nizovi
+INFO  19:46:50,282 - #3 {
+INFO  19:46:50,283 - #46 int
+INFO  19:46:50,283 - #46 niz
+INFO  19:46:50,284 - #11 [
+INFO  19:46:50,285 - #12 ]
+INFO  19:46:50,285 - #9 ;
+INFO  19:46:50,286 - #46 char
+INFO  19:46:50,288 - #46 nizch
+INFO  19:46:50,288 - #11 [
+INFO  19:46:50,288 - #12 ]
+INFO  19:46:50,289 - #9 ;
+INFO  19:46:50,289 - #3 {
+INFO  19:46:50,289 - #4 }
+INFO  19:46:50,289 - #4 }
+INFO  19:46:50,289 - #46 int
+INFO  19:46:50,289 - #46 a
+INFO  19:46:50,290 - #9 ;
+INFO  19:46:50,291 - #3 {
+INFO  19:46:50,291 - #15 void
+INFO  19:46:50,291 - #46 main
+INFO  19:46:50,292 - #13 (
+INFO  19:46:50,294 - #14 )
+INFO  19:46:50,295 - #46 int
+INFO  19:46:50,295 - #46 bodovi
+INFO  19:46:50,295 - #9 ;
+INFO  19:46:50,296 - #46 bool
+INFO  19:46:50,296 - #46 bt
+INFO  19:46:50,296 - #9 ;
+INFO  19:46:50,296 - #3 {
+INFO  19:46:50,296 - #46 bodovi
+INFO  19:46:50,297 - #8 =
+INFO  19:46:50,297 - #45 0
+INFO  19:46:50,299 - #9 ;
+INFO  19:46:50,302 - #46 bodovi
+INFO  19:46:50,303 - #23 ++
+INFO  19:46:50,303 - #9 ;
+INFO  19:46:50,303 - #46 bodovi
+INFO  19:46:50,304 - #8 =
+INFO  19:46:50,304 - #46 bodovi
+INFO  19:46:50,304 - #39 +
+INFO  19:46:50,304 - #46 Konstante
+INFO  19:46:50,308 - #10 :
+INFO  19:46:50,308 - #10 :
+INFO  19:46:50,308 - #46 jedan
+INFO  19:46:50,309 - #9 ;
+INFO  19:46:50,309 - #46 bodovi
+INFO  19:46:50,309 - #8 =
+INFO  19:46:50,309 - #46 bodovi
+INFO  19:46:50,310 - #36 *
+INFO  19:46:50,310 - #46 Konstante
+INFO  19:46:50,315 - #10 :
+INFO  19:46:50,316 - #10 :
+INFO  19:46:50,316 - #46 pet
+INFO  19:46:50,316 - #9 ;
+INFO  19:46:50,316 - #46 bodovi
+INFO  19:46:50,316 - #24 --
+INFO  19:46:50,317 - #9 ;
+INFO  19:46:50,317 - #19 print
+INFO  19:46:50,317 - #13 (
+INFO  19:46:50,317 - #46 bodovi
+INFO  19:46:50,317 - #14 )
+INFO  19:46:50,318 - #9 ;
+INFO  19:46:50,319 - #46 Nizovi
+INFO  19:46:50,320 - #10 :
+INFO  19:46:50,320 - #10 :
+INFO  19:46:50,320 - #46 niz
+INFO  19:46:50,320 - #8 =
+INFO  19:46:50,321 - #34 new
+INFO  19:46:50,321 - #46 int
+INFO  19:46:50,321 - #11 [
+INFO  19:46:50,321 - #45 3
+INFO  19:46:50,322 - #12 ]
+INFO  19:46:50,322 - #9 ;
+INFO  19:46:50,323 - #46 Nizovi
+INFO  19:46:50,323 - #10 :
+INFO  19:46:50,323 - #10 :
+INFO  19:46:50,323 - #46 niz
+INFO  19:46:50,324 - #11 [
+INFO  19:46:50,324 - #46 Konstante
+INFO  19:46:50,324 - #10 :
+INFO  19:46:50,324 - #10 :
+INFO  19:46:50,324 - #46 nula
+INFO  19:46:50,324 - #12 ]
+INFO  19:46:50,325 - #8 =
+INFO  19:46:50,325 - #46 Konstante
+INFO  19:46:50,325 - #10 :
+INFO  19:46:50,325 - #10 :
+INFO  19:46:50,326 - #46 jedan
+INFO  19:46:50,326 - #9 ;
+INFO  19:46:50,326 - #46 Nizovi
+INFO  19:46:50,326 - #10 :
+INFO  19:46:50,326 - #10 :
+INFO  19:46:50,328 - #46 niz
+INFO  19:46:50,328 - #11 [
+INFO  19:46:50,328 - #45 1
+INFO  19:46:50,328 - #12 ]
+INFO  19:46:50,329 - #8 =
+INFO  19:46:50,329 - #45 2
+INFO  19:46:50,329 - #9 ;
+INFO  19:46:50,329 - #46 Nizovi
+INFO  19:46:50,330 - #10 :
+INFO  19:46:50,330 - #10 :
+INFO  19:46:50,330 - #46 niz
+INFO  19:46:50,330 - #11 [
+INFO  19:46:50,330 - #46 Nizovi
+INFO  19:46:50,330 - #10 :
+INFO  19:46:50,330 - #10 :
+INFO  19:46:50,331 - #46 niz
+INFO  19:46:50,331 - #11 [
+INFO  19:46:50,331 - #46 Konstante
+INFO  19:46:50,331 - #10 :
+INFO  19:46:50,331 - #10 :
+INFO  19:46:50,331 - #46 jedan
+INFO  19:46:50,331 - #12 ]
+INFO  19:46:50,332 - #12 ]
+INFO  19:46:50,332 - #8 =
+INFO  19:46:50,332 - #46 Nizovi
+INFO  19:46:50,332 - #10 :
+INFO  19:46:50,332 - #10 :
+INFO  19:46:50,333 - #46 niz
+INFO  19:46:50,333 - #11 [
+INFO  19:46:50,333 - #46 Nizovi
+INFO  19:46:50,333 - #10 :
+INFO  19:46:50,333 - #10 :
+INFO  19:46:50,333 - #46 niz
+INFO  19:46:50,333 - #11 [
+INFO  19:46:50,333 - #45 0
+INFO  19:46:50,333 - #12 ]
+INFO  19:46:50,334 - #12 ]
+INFO  19:46:50,334 - #36 *
+INFO  19:46:50,334 - #45 3
+INFO  19:46:50,334 - #9 ;
+INFO  19:46:50,334 - #46 bodovi
+INFO  19:46:50,334 - #8 =
+INFO  19:46:50,334 - #46 Nizovi
+INFO  19:46:50,335 - #10 :
+INFO  19:46:50,335 - #10 :
+INFO  19:46:50,335 - #46 niz
+INFO  19:46:50,335 - #11 [
+INFO  19:46:50,335 - #45 2
+INFO  19:46:50,335 - #12 ]
+INFO  19:46:50,335 - #37 /
+INFO  19:46:50,335 - #46 Nizovi
+INFO  19:46:50,337 - #10 :
+INFO  19:46:50,337 - #10 :
+INFO  19:46:50,338 - #46 niz
+INFO  19:46:50,338 - #11 [
+INFO  19:46:50,338 - #45 0
+INFO  19:46:50,338 - #12 ]
+INFO  19:46:50,338 - #9 ;
+INFO  19:46:50,338 - #19 print
+INFO  19:46:50,338 - #13 (
+INFO  19:46:50,338 - #46 bodovi
+INFO  19:46:50,339 - #14 )
+INFO  19:46:50,339 - #9 ;
+INFO  19:46:50,339 - #19 print
+INFO  19:46:50,339 - #13 (
+INFO  19:46:50,339 - #46 Nizovi
+INFO  19:46:50,339 - #10 :
+INFO  19:46:50,339 - #10 :
+INFO  19:46:50,339 - #46 niz
+INFO  19:46:50,339 - #11 [
+INFO  19:46:50,340 - #45 2
+INFO  19:46:50,340 - #12 ]
+INFO  19:46:50,340 - #14 )
+INFO  19:46:50,340 - #9 ;
+INFO  19:46:50,340 - #46 Nizovi
+INFO  19:46:50,340 - #10 :
+INFO  19:46:50,340 - #10 :
+INFO  19:46:50,340 - #46 nizch
+INFO  19:46:50,340 - #8 =
+INFO  19:46:50,341 - #34 new
+INFO  19:46:50,341 - #46 char
+INFO  19:46:50,341 - #11 [
+INFO  19:46:50,341 - #45 3
+INFO  19:46:50,341 - #12 ]
+INFO  19:46:50,341 - #9 ;
+INFO  19:46:50,341 - #46 Nizovi
+INFO  19:46:50,341 - #10 :
+INFO  19:46:50,341 - #10 :
+INFO  19:46:50,342 - #46 nizch
+INFO  19:46:50,342 - #11 [
+INFO  19:46:50,342 - #45 0
+INFO  19:46:50,342 - #12 ]
+INFO  19:46:50,342 - #8 =
+INFO  19:46:50,342 - #47 a
+INFO  19:46:50,343 - #9 ;
+INFO  19:46:50,343 - #46 Nizovi
+INFO  19:46:50,343 - #10 :
+INFO  19:46:50,343 - #10 :
+INFO  19:46:50,343 - #46 nizch
+INFO  19:46:50,343 - #11 [
+INFO  19:46:50,343 - #46 Konstante
+INFO  19:46:50,343 - #10 :
+INFO  19:46:50,344 - #10 :
+INFO  19:46:50,344 - #46 jedan
+INFO  19:46:50,344 - #12 ]
+INFO  19:46:50,344 - #8 =
+INFO  19:46:50,345 - #47 b
+INFO  19:46:50,345 - #9 ;
+INFO  19:46:50,345 - #46 Nizovi
+INFO  19:46:50,345 - #10 :
+INFO  19:46:50,345 - #10 :
+INFO  19:46:50,345 - #46 nizch
+INFO  19:46:50,345 - #11 [
+INFO  19:46:50,345 - #46 Konstante
+INFO  19:46:50,345 - #10 :
+INFO  19:46:50,345 - #10 :
+INFO  19:46:50,346 - #46 pet
+INFO  19:46:50,346 - #33 -
+INFO  19:46:50,346 - #45 3
+INFO  19:46:50,347 - #12 ]
+INFO  19:46:50,347 - #8 =
+INFO  19:46:50,347 - #47 c
+INFO  19:46:50,347 - #9 ;
+INFO  19:46:50,347 - #19 print
+INFO  19:46:50,347 - #13 (
+INFO  19:46:50,347 - #46 Nizovi
+INFO  19:46:50,348 - #10 :
+INFO  19:46:50,348 - #10 :
+INFO  19:46:50,348 - #46 nizch
+INFO  19:46:50,348 - #11 [
+INFO  19:46:50,348 - #45 1
+INFO  19:46:50,348 - #12 ]
+INFO  19:46:50,348 - #14 )
+INFO  19:46:50,348 - #9 ;
+INFO  19:46:50,349 - #19 print
+INFO  19:46:50,349 - #13 (
+INFO  19:46:50,349 - #46 Nizovi
+INFO  19:46:50,349 - #10 :
+INFO  19:46:50,349 - #10 :
+INFO  19:46:50,349 - #46 nizch
+INFO  19:46:50,350 - #11 [
+INFO  19:46:50,350 - #46 Konstante
+INFO  19:46:50,350 - #10 :
+INFO  19:46:50,350 - #10 :
+INFO  19:46:50,350 - #46 jedan
+INFO  19:46:50,350 - #36 *
+INFO  19:46:50,350 - #45 2
+INFO  19:46:50,350 - #12 ]
+INFO  19:46:50,350 - #14 )
+INFO  19:46:50,351 - #9 ;
+INFO  19:46:50,351 - #46 a
+INFO  19:46:50,351 - #8 =
+INFO  19:46:50,351 - #45 1
+INFO  19:46:50,351 - #9 ;
+INFO  19:46:50,351 - #20 read
+INFO  19:46:50,351 - #13 (
+INFO  19:46:50,351 - #46 bodovi
+INFO  19:46:50,352 - #14 )
+INFO  19:46:50,352 - #9 ;
+INFO  19:46:50,352 - #46 bodovi
+INFO  19:46:50,352 - #8 =
+INFO  19:46:50,352 - #33 -
+INFO  19:46:50,352 - #46 bodovi
+INFO  19:46:50,354 - #39 +
+INFO  19:46:50,354 - #13 (
+INFO  19:46:50,355 - #46 Konstante
+INFO  19:46:50,355 - #10 :
+INFO  19:46:50,355 - #10 :
+INFO  19:46:50,355 - #46 pet
+INFO  19:46:50,355 - #36 *
+INFO  19:46:50,355 - #46 a
+INFO  19:46:50,356 - #37 /
+INFO  19:46:50,356 - #45 2
+INFO  19:46:50,356 - #33 -
+INFO  19:46:50,356 - #46 Konstante
+INFO  19:46:50,356 - #10 :
+INFO  19:46:50,356 - #10 :
+INFO  19:46:50,356 - #46 jedan
+INFO  19:46:50,357 - #14 )
+INFO  19:46:50,357 - #36 *
+INFO  19:46:50,357 - #46 bodovi
+INFO  19:46:50,357 - #33 -
+INFO  19:46:50,357 - #13 (
+INFO  19:46:50,357 - #45 3
+INFO  19:46:50,357 - #38 %
+INFO  19:46:50,357 - #45 2
+INFO  19:46:50,358 - #39 +
+INFO  19:46:50,359 - #45 3
+INFO  19:46:50,359 - #36 *
+INFO  19:46:50,359 - #45 2
+INFO  19:46:50,359 - #33 -
+INFO  19:46:50,359 - #45 3
+INFO  19:46:50,359 - #14 )
+INFO  19:46:50,359 - #9 ;
+INFO  19:46:50,359 - #19 print
+INFO  19:46:50,359 - #13 (
+INFO  19:46:50,359 - #46 bodovi
+INFO  19:46:50,360 - #14 )
+INFO  19:46:50,360 - #9 ;
+INFO  19:46:50,362 - #4 }
+INFO  19:46:50,362 - #4 }
+INFO  19:46:50,406 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+       Konstante
+        ConstList(
+          ConstList(
+            ConstList(
+              NoList(
+              ) [NoList]
+              ConstDecl(
+                ConstType(
+                  NoUsingType(
+                    TypeDecl(
+                     int
+                    ) [TypeDecl]
+                  ) [NoUsingType]
+                ) [ConstType]
+                AddConst(
+                  NumType(
+                   nula
+                   0
+                  ) [NumType]
+                ) [AddConst]
+                NoAddConstDecls(
+                ) [NoAddConstDecls]
+              ) [ConstDecl]
+            ) [ConstList]
+            ConstDecl(
+              ConstType(
+                NoUsingType(
+                  TypeDecl(
+                   int
+                  ) [TypeDecl]
+                ) [NoUsingType]
+              ) [ConstType]
+              AddConst(
+                NumType(
+                 jedan
+                 1
+                ) [NumType]
+              ) [AddConst]
+              NoAddConstDecls(
+              ) [NoAddConstDecls]
+            ) [ConstDecl]
+          ) [ConstList]
+          ConstDecl(
+            ConstType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [ConstType]
+            AddConst(
+              NumType(
+               pet
+               5
+              ) [NumType]
+            ) [AddConst]
+            NoAddConstDecls(
+            ) [NoAddConstDecls]
+          ) [ConstDecl]
+        ) [ConstList]
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        EndOfNamespace(
+        ) [EndOfNamespace]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+     Nizovi
+      VarList(
+        VarList(
+          NoList(
+          ) [NoList]
+          VarDecl(
+            VarType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [VarType]
+            NoAddVarDecls(
+              EndVarDecl(
+               niz
+                AddSqBrackets(
+                ) [AddSqBrackets]
+              ) [EndVarDecl]
+            ) [NoAddVarDecls]
+          ) [VarDecl]
+        ) [VarList]
+        VarDecl(
+          VarType(
+            NoUsingType(
+              TypeDecl(
+               char
+              ) [TypeDecl]
+            ) [NoUsingType]
+          ) [VarType]
+          NoAddVarDecls(
+            EndVarDecl(
+             nizch
+              AddSqBrackets(
+              ) [AddSqBrackets]
+            ) [EndVarDecl]
+          ) [NoAddVarDecls]
+        ) [VarDecl]
+      ) [VarList]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      EndOfNamespace(
+      ) [EndOfNamespace]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  VarList(
+    NoList(
+    ) [NoList]
+    VarDecl(
+      VarType(
+        NoUsingType(
+          TypeDecl(
+           int
+          ) [TypeDecl]
+        ) [NoUsingType]
+      ) [VarType]
+      NoAddVarDecls(
+        EndVarDecl(
+         a
+          NoBrackets(
+          ) [NoBrackets]
+        ) [EndVarDecl]
+      ) [NoAddVarDecls]
+    ) [VarDecl]
+  ) [VarList]
+  MethodDecls(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        RetVoid(
+        ) [RetVoid]
+       main
+      ) [MethodTypeName]
+      FormalPar(
+      ) [FormalPar]
+      MethodVars(
+        MethodVars(
+          NoMethodVars(
+          ) [NoMethodVars]
+          VarDecl(
+            VarType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [VarType]
+            NoAddVarDecls(
+              EndVarDecl(
+               bodovi
+                NoBrackets(
+                ) [NoBrackets]
+              ) [EndVarDecl]
+            ) [NoAddVarDecls]
+          ) [VarDecl]
+        ) [MethodVars]
+        VarDecl(
+          VarType(
+            NoUsingType(
+              TypeDecl(
+               bool
+              ) [TypeDecl]
+            ) [NoUsingType]
+          ) [VarType]
+          NoAddVarDecls(
+            EndVarDecl(
+             bt
+              NoBrackets(
+              ) [NoBrackets]
+            ) [EndVarDecl]
+          ) [NoAddVarDecls]
+        ) [VarDecl]
+      ) [MethodVars]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        Statements(
+                                          Statements(
+                                            Statements(
+                                              Statements(
+                                                Statements(
+                                                  Statements(
+                                                    NoStatement(
+                                                    ) [NoStatement]
+                                                    DStmt(
+                                                      DesignatorAssign(
+                                                        Dsg(
+                                                          NoDesUsing(
+                                                           bodovi
+                                                          ) [NoDesUsing]
+                                                        ) [Dsg]
+                                                        Assignop(
+                                                        ) [Assignop]
+                                                        Expr(
+                                                          SingleTerm(
+                                                            NoUnaryMinus(
+                                                            ) [NoUnaryMinus]
+                                                            Term(
+                                                              SingleFactor(
+                                                                NumFactor(
+                                                                 0
+                                                                ) [NumFactor]
+                                                              ) [SingleFactor]
+                                                            ) [Term]
+                                                          ) [SingleTerm]
+                                                          NoAddTerm(
+                                                          ) [NoAddTerm]
+                                                        ) [Expr]
+                                                      ) [DesignatorAssign]
+                                                    ) [DStmt]
+                                                  ) [Statements]
+                                                  DStmt(
+                                                    DesignatorIncrement(
+                                                      Dsg(
+                                                        NoDesUsing(
+                                                         bodovi
+                                                        ) [NoDesUsing]
+                                                      ) [Dsg]
+                                                    ) [DesignatorIncrement]
+                                                  ) [DStmt]
+                                                ) [Statements]
+                                                DStmt(
+                                                  DesignatorAssign(
+                                                    Dsg(
+                                                      NoDesUsing(
+                                                       bodovi
+                                                      ) [NoDesUsing]
+                                                    ) [Dsg]
+                                                    Assignop(
+                                                    ) [Assignop]
+                                                    Expr(
+                                                      SingleTerm(
+                                                        NoUnaryMinus(
+                                                        ) [NoUnaryMinus]
+                                                        Term(
+                                                          SingleFactor(
+                                                            DesFactor(
+                                                              Dsg(
+                                                                NoDesUsing(
+                                                                 bodovi
+                                                                ) [NoDesUsing]
+                                                              ) [Dsg]
+                                                            ) [DesFactor]
+                                                          ) [SingleFactor]
+                                                        ) [Term]
+                                                      ) [SingleTerm]
+                                                      AddTerm(
+                                                        Add(
+                                                        ) [Add]
+                                                        Term(
+                                                          SingleFactor(
+                                                            DesFactor(
+                                                              Dsg(
+                                                                OneDesUsing(
+                                                                 Konstante
+                                                                 jedan
+                                                                ) [OneDesUsing]
+                                                              ) [Dsg]
+                                                            ) [DesFactor]
+                                                          ) [SingleFactor]
+                                                        ) [Term]
+                                                        NoAddTerm(
+                                                        ) [NoAddTerm]
+                                                      ) [AddTerm]
+                                                    ) [Expr]
+                                                  ) [DesignatorAssign]
+                                                ) [DStmt]
+                                              ) [Statements]
+                                              DStmt(
+                                                DesignatorAssign(
+                                                  Dsg(
+                                                    NoDesUsing(
+                                                     bodovi
+                                                    ) [NoDesUsing]
+                                                  ) [Dsg]
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  Expr(
+                                                    SingleTerm(
+                                                      NoUnaryMinus(
+                                                      ) [NoUnaryMinus]
+                                                      Term(
+                                                        MulFactors(
+                                                          SingleFactor(
+                                                            DesFactor(
+                                                              Dsg(
+                                                                NoDesUsing(
+                                                                 bodovi
+                                                                ) [NoDesUsing]
+                                                              ) [Dsg]
+                                                            ) [DesFactor]
+                                                          ) [SingleFactor]
+                                                          Multiply(
+                                                          ) [Multiply]
+                                                          DesFactor(
+                                                            Dsg(
+                                                              OneDesUsing(
+                                                               Konstante
+                                                               pet
+                                                              ) [OneDesUsing]
+                                                            ) [Dsg]
+                                                          ) [DesFactor]
+                                                        ) [MulFactors]
+                                                      ) [Term]
+                                                    ) [SingleTerm]
+                                                    NoAddTerm(
+                                                    ) [NoAddTerm]
+                                                  ) [Expr]
+                                                ) [DesignatorAssign]
+                                              ) [DStmt]
+                                            ) [Statements]
+                                            DStmt(
+                                              DesignatorDecrement(
+                                                Dsg(
+                                                  NoDesUsing(
+                                                   bodovi
+                                                  ) [NoDesUsing]
+                                                ) [Dsg]
+                                              ) [DesignatorDecrement]
+                                            ) [DStmt]
+                                          ) [Statements]
+                                          SimplePrintStmt(
+                                            BExprB(
+                                              Expr(
+                                                SingleTerm(
+                                                  NoUnaryMinus(
+                                                  ) [NoUnaryMinus]
+                                                  Term(
+                                                    SingleFactor(
+                                                      DesFactor(
+                                                        Dsg(
+                                                          NoDesUsing(
+                                                           bodovi
+                                                          ) [NoDesUsing]
+                                                        ) [Dsg]
+                                                      ) [DesFactor]
+                                                    ) [SingleFactor]
+                                                  ) [Term]
+                                                ) [SingleTerm]
+                                                NoAddTerm(
+                                                ) [NoAddTerm]
+                                              ) [Expr]
+                                            ) [BExprB]
+                                          ) [SimplePrintStmt]
+                                        ) [Statements]
+                                        DStmt(
+                                          DesignatorAssign(
+                                            Dsg(
+                                              OneDesUsing(
+                                               Nizovi
+                                               niz
+                                              ) [OneDesUsing]
+                                            ) [Dsg]
+                                            Assignop(
+                                            ) [Assignop]
+                                            Expr(
+                                              SingleTerm(
+                                                NoUnaryMinus(
+                                                ) [NoUnaryMinus]
+                                                Term(
+                                                  SingleFactor(
+                                                    NewFactorArray(
+                                                      NoUsingType(
+                                                        TypeDecl(
+                                                         int
+                                                        ) [TypeDecl]
+                                                      ) [NoUsingType]
+                                                      Expr(
+                                                        SingleTerm(
+                                                          NoUnaryMinus(
+                                                          ) [NoUnaryMinus]
+                                                          Term(
+                                                            SingleFactor(
+                                                              NumFactor(
+                                                               3
+                                                              ) [NumFactor]
+                                                            ) [SingleFactor]
+                                                          ) [Term]
+                                                        ) [SingleTerm]
+                                                        NoAddTerm(
+                                                        ) [NoAddTerm]
+                                                      ) [Expr]
+                                                    ) [NewFactorArray]
+                                                  ) [SingleFactor]
+                                                ) [Term]
+                                              ) [SingleTerm]
+                                              NoAddTerm(
+                                              ) [NoAddTerm]
+                                            ) [Expr]
+                                          ) [DesignatorAssign]
+                                        ) [DStmt]
+                                      ) [Statements]
+                                      DStmt(
+                                        DesignatorAssign(
+                                          DsqB(
+                                            OneDesUsing(
+                                             Nizovi
+                                             niz
+                                            ) [OneDesUsing]
+                                            Expr(
+                                              SingleTerm(
+                                                NoUnaryMinus(
+                                                ) [NoUnaryMinus]
+                                                Term(
+                                                  SingleFactor(
+                                                    DesFactor(
+                                                      Dsg(
+                                                        OneDesUsing(
+                                                         Konstante
+                                                         nula
+                                                        ) [OneDesUsing]
+                                                      ) [Dsg]
+                                                    ) [DesFactor]
+                                                  ) [SingleFactor]
+                                                ) [Term]
+                                              ) [SingleTerm]
+                                              NoAddTerm(
+                                              ) [NoAddTerm]
+                                            ) [Expr]
+                                          ) [DsqB]
+                                          Assignop(
+                                          ) [Assignop]
+                                          Expr(
+                                            SingleTerm(
+                                              NoUnaryMinus(
+                                              ) [NoUnaryMinus]
+                                              Term(
+                                                SingleFactor(
+                                                  DesFactor(
+                                                    Dsg(
+                                                      OneDesUsing(
+                                                       Konstante
+                                                       jedan
+                                                      ) [OneDesUsing]
+                                                    ) [Dsg]
+                                                  ) [DesFactor]
+                                                ) [SingleFactor]
+                                              ) [Term]
+                                            ) [SingleTerm]
+                                            NoAddTerm(
+                                            ) [NoAddTerm]
+                                          ) [Expr]
+                                        ) [DesignatorAssign]
+                                      ) [DStmt]
+                                    ) [Statements]
+                                    DStmt(
+                                      DesignatorAssign(
+                                        DsqB(
+                                          OneDesUsing(
+                                           Nizovi
+                                           niz
+                                          ) [OneDesUsing]
+                                          Expr(
+                                            SingleTerm(
+                                              NoUnaryMinus(
+                                              ) [NoUnaryMinus]
+                                              Term(
+                                                SingleFactor(
+                                                  NumFactor(
+                                                   1
+                                                  ) [NumFactor]
+                                                ) [SingleFactor]
+                                              ) [Term]
+                                            ) [SingleTerm]
+                                            NoAddTerm(
+                                            ) [NoAddTerm]
+                                          ) [Expr]
+                                        ) [DsqB]
+                                        Assignop(
+                                        ) [Assignop]
+                                        Expr(
+                                          SingleTerm(
+                                            NoUnaryMinus(
+                                            ) [NoUnaryMinus]
+                                            Term(
+                                              SingleFactor(
+                                                NumFactor(
+                                                 2
+                                                ) [NumFactor]
+                                              ) [SingleFactor]
+                                            ) [Term]
+                                          ) [SingleTerm]
+                                          NoAddTerm(
+                                          ) [NoAddTerm]
+                                        ) [Expr]
+                                      ) [DesignatorAssign]
+                                    ) [DStmt]
+                                  ) [Statements]
+                                  DStmt(
+                                    DesignatorAssign(
+                                      DsqB(
+                                        OneDesUsing(
+                                         Nizovi
+                                         niz
+                                        ) [OneDesUsing]
+                                        Expr(
+                                          SingleTerm(
+                                            NoUnaryMinus(
+                                            ) [NoUnaryMinus]
+                                            Term(
+                                              SingleFactor(
+                                                DesFactor(
+                                                  DsqB(
+                                                    OneDesUsing(
+                                                     Nizovi
+                                                     niz
+                                                    ) [OneDesUsing]
+                                                    Expr(
+                                                      SingleTerm(
+                                                        NoUnaryMinus(
+                                                        ) [NoUnaryMinus]
+                                                        Term(
+                                                          SingleFactor(
+                                                            DesFactor(
+                                                              Dsg(
+                                                                OneDesUsing(
+                                                                 Konstante
+                                                                 jedan
+                                                                ) [OneDesUsing]
+                                                              ) [Dsg]
+                                                            ) [DesFactor]
+                                                          ) [SingleFactor]
+                                                        ) [Term]
+                                                      ) [SingleTerm]
+                                                      NoAddTerm(
+                                                      ) [NoAddTerm]
+                                                    ) [Expr]
+                                                  ) [DsqB]
+                                                ) [DesFactor]
+                                              ) [SingleFactor]
+                                            ) [Term]
+                                          ) [SingleTerm]
+                                          NoAddTerm(
+                                          ) [NoAddTerm]
+                                        ) [Expr]
+                                      ) [DsqB]
+                                      Assignop(
+                                      ) [Assignop]
+                                      Expr(
+                                        SingleTerm(
+                                          NoUnaryMinus(
+                                          ) [NoUnaryMinus]
+                                          Term(
+                                            MulFactors(
+                                              SingleFactor(
+                                                DesFactor(
+                                                  DsqB(
+                                                    OneDesUsing(
+                                                     Nizovi
+                                                     niz
+                                                    ) [OneDesUsing]
+                                                    Expr(
+                                                      SingleTerm(
+                                                        NoUnaryMinus(
+                                                        ) [NoUnaryMinus]
+                                                        Term(
+                                                          SingleFactor(
+                                                            DesFactor(
+                                                              DsqB(
+                                                                OneDesUsing(
+                                                                 Nizovi
+                                                                 niz
+                                                                ) [OneDesUsing]
+                                                                Expr(
+                                                                  SingleTerm(
+                                                                    NoUnaryMinus(
+                                                                    ) [NoUnaryMinus]
+                                                                    Term(
+                                                                      SingleFactor(
+                                                                        NumFactor(
+                                                                         0
+                                                                        ) [NumFactor]
+                                                                      ) [SingleFactor]
+                                                                    ) [Term]
+                                                                  ) [SingleTerm]
+                                                                  NoAddTerm(
+                                                                  ) [NoAddTerm]
+                                                                ) [Expr]
+                                                              ) [DsqB]
+                                                            ) [DesFactor]
+                                                          ) [SingleFactor]
+                                                        ) [Term]
+                                                      ) [SingleTerm]
+                                                      NoAddTerm(
+                                                      ) [NoAddTerm]
+                                                    ) [Expr]
+                                                  ) [DsqB]
+                                                ) [DesFactor]
+                                              ) [SingleFactor]
+                                              Multiply(
+                                              ) [Multiply]
+                                              NumFactor(
+                                               3
+                                              ) [NumFactor]
+                                            ) [MulFactors]
+                                          ) [Term]
+                                        ) [SingleTerm]
+                                        NoAddTerm(
+                                        ) [NoAddTerm]
+                                      ) [Expr]
+                                    ) [DesignatorAssign]
+                                  ) [DStmt]
+                                ) [Statements]
+                                DStmt(
+                                  DesignatorAssign(
+                                    Dsg(
+                                      NoDesUsing(
+                                       bodovi
+                                      ) [NoDesUsing]
+                                    ) [Dsg]
+                                    Assignop(
+                                    ) [Assignop]
+                                    Expr(
+                                      SingleTerm(
+                                        NoUnaryMinus(
+                                        ) [NoUnaryMinus]
+                                        Term(
+                                          MulFactors(
+                                            SingleFactor(
+                                              DesFactor(
+                                                DsqB(
+                                                  OneDesUsing(
+                                                   Nizovi
+                                                   niz
+                                                  ) [OneDesUsing]
+                                                  Expr(
+                                                    SingleTerm(
+                                                      NoUnaryMinus(
+                                                      ) [NoUnaryMinus]
+                                                      Term(
+                                                        SingleFactor(
+                                                          NumFactor(
+                                                           2
+                                                          ) [NumFactor]
+                                                        ) [SingleFactor]
+                                                      ) [Term]
+                                                    ) [SingleTerm]
+                                                    NoAddTerm(
+                                                    ) [NoAddTerm]
+                                                  ) [Expr]
+                                                ) [DsqB]
+                                              ) [DesFactor]
+                                            ) [SingleFactor]
+                                            Divide(
+                                            ) [Divide]
+                                            DesFactor(
+                                              DsqB(
+                                                OneDesUsing(
+                                                 Nizovi
+                                                 niz
+                                                ) [OneDesUsing]
+                                                Expr(
+                                                  SingleTerm(
+                                                    NoUnaryMinus(
+                                                    ) [NoUnaryMinus]
+                                                    Term(
+                                                      SingleFactor(
+                                                        NumFactor(
+                                                         0
+                                                        ) [NumFactor]
+                                                      ) [SingleFactor]
+                                                    ) [Term]
+                                                  ) [SingleTerm]
+                                                  NoAddTerm(
+                                                  ) [NoAddTerm]
+                                                ) [Expr]
+                                              ) [DsqB]
+                                            ) [DesFactor]
+                                          ) [MulFactors]
+                                        ) [Term]
+                                      ) [SingleTerm]
+                                      NoAddTerm(
+                                      ) [NoAddTerm]
+                                    ) [Expr]
+                                  ) [DesignatorAssign]
+                                ) [DStmt]
+                              ) [Statements]
+                              SimplePrintStmt(
+                                BExprB(
+                                  Expr(
+                                    SingleTerm(
+                                      NoUnaryMinus(
+                                      ) [NoUnaryMinus]
+                                      Term(
+                                        SingleFactor(
+                                          DesFactor(
+                                            Dsg(
+                                              NoDesUsing(
+                                               bodovi
+                                              ) [NoDesUsing]
+                                            ) [Dsg]
+                                          ) [DesFactor]
+                                        ) [SingleFactor]
+                                      ) [Term]
+                                    ) [SingleTerm]
+                                    NoAddTerm(
+                                    ) [NoAddTerm]
+                                  ) [Expr]
+                                ) [BExprB]
+                              ) [SimplePrintStmt]
+                            ) [Statements]
+                            SimplePrintStmt(
+                              BExprB(
+                                Expr(
+                                  SingleTerm(
+                                    NoUnaryMinus(
+                                    ) [NoUnaryMinus]
+                                    Term(
+                                      SingleFactor(
+                                        DesFactor(
+                                          DsqB(
+                                            OneDesUsing(
+                                             Nizovi
+                                             niz
+                                            ) [OneDesUsing]
+                                            Expr(
+                                              SingleTerm(
+                                                NoUnaryMinus(
+                                                ) [NoUnaryMinus]
+                                                Term(
+                                                  SingleFactor(
+                                                    NumFactor(
+                                                     2
+                                                    ) [NumFactor]
+                                                  ) [SingleFactor]
+                                                ) [Term]
+                                              ) [SingleTerm]
+                                              NoAddTerm(
+                                              ) [NoAddTerm]
+                                            ) [Expr]
+                                          ) [DsqB]
+                                        ) [DesFactor]
+                                      ) [SingleFactor]
+                                    ) [Term]
+                                  ) [SingleTerm]
+                                  NoAddTerm(
+                                  ) [NoAddTerm]
+                                ) [Expr]
+                              ) [BExprB]
+                            ) [SimplePrintStmt]
+                          ) [Statements]
+                          DStmt(
+                            DesignatorAssign(
+                              Dsg(
+                                OneDesUsing(
+                                 Nizovi
+                                 nizch
+                                ) [OneDesUsing]
+                              ) [Dsg]
+                              Assignop(
+                              ) [Assignop]
+                              Expr(
+                                SingleTerm(
+                                  NoUnaryMinus(
+                                  ) [NoUnaryMinus]
+                                  Term(
+                                    SingleFactor(
+                                      NewFactorArray(
+                                        NoUsingType(
+                                          TypeDecl(
+                                           char
+                                          ) [TypeDecl]
+                                        ) [NoUsingType]
+                                        Expr(
+                                          SingleTerm(
+                                            NoUnaryMinus(
+                                            ) [NoUnaryMinus]
+                                            Term(
+                                              SingleFactor(
+                                                NumFactor(
+                                                 3
+                                                ) [NumFactor]
+                                              ) [SingleFactor]
+                                            ) [Term]
+                                          ) [SingleTerm]
+                                          NoAddTerm(
+                                          ) [NoAddTerm]
+                                        ) [Expr]
+                                      ) [NewFactorArray]
+                                    ) [SingleFactor]
+                                  ) [Term]
+                                ) [SingleTerm]
+                                NoAddTerm(
+                                ) [NoAddTerm]
+                              ) [Expr]
+                            ) [DesignatorAssign]
+                          ) [DStmt]
+                        ) [Statements]
+                        DStmt(
+                          DesignatorAssign(
+                            DsqB(
+                              OneDesUsing(
+                               Nizovi
+                               nizch
+                              ) [OneDesUsing]
+                              Expr(
+                                SingleTerm(
+                                  NoUnaryMinus(
+                                  ) [NoUnaryMinus]
+                                  Term(
+                                    SingleFactor(
+                                      NumFactor(
+                                       0
+                                      ) [NumFactor]
+                                    ) [SingleFactor]
+                                  ) [Term]
+                                ) [SingleTerm]
+                                NoAddTerm(
+                                ) [NoAddTerm]
+                              ) [Expr]
+                            ) [DsqB]
+                            Assignop(
+                            ) [Assignop]
+                            Expr(
+                              SingleTerm(
+                                NoUnaryMinus(
+                                ) [NoUnaryMinus]
+                                Term(
+                                  SingleFactor(
+                                    CharFactor(
+                                     a
+                                    ) [CharFactor]
+                                  ) [SingleFactor]
+                                ) [Term]
+                              ) [SingleTerm]
+                              NoAddTerm(
+                              ) [NoAddTerm]
+                            ) [Expr]
+                          ) [DesignatorAssign]
+                        ) [DStmt]
+                      ) [Statements]
+                      DStmt(
+                        DesignatorAssign(
+                          DsqB(
+                            OneDesUsing(
+                             Nizovi
+                             nizch
+                            ) [OneDesUsing]
+                            Expr(
+                              SingleTerm(
+                                NoUnaryMinus(
+                                ) [NoUnaryMinus]
+                                Term(
+                                  SingleFactor(
+                                    DesFactor(
+                                      Dsg(
+                                        OneDesUsing(
+                                         Konstante
+                                         jedan
+                                        ) [OneDesUsing]
+                                      ) [Dsg]
+                                    ) [DesFactor]
+                                  ) [SingleFactor]
+                                ) [Term]
+                              ) [SingleTerm]
+                              NoAddTerm(
+                              ) [NoAddTerm]
+                            ) [Expr]
+                          ) [DsqB]
+                          Assignop(
+                          ) [Assignop]
+                          Expr(
+                            SingleTerm(
+                              NoUnaryMinus(
+                              ) [NoUnaryMinus]
+                              Term(
+                                SingleFactor(
+                                  CharFactor(
+                                   b
+                                  ) [CharFactor]
+                                ) [SingleFactor]
+                              ) [Term]
+                            ) [SingleTerm]
+                            NoAddTerm(
+                            ) [NoAddTerm]
+                          ) [Expr]
+                        ) [DesignatorAssign]
+                      ) [DStmt]
+                    ) [Statements]
+                    DStmt(
+                      DesignatorAssign(
+                        DsqB(
+                          OneDesUsing(
+                           Nizovi
+                           nizch
+                          ) [OneDesUsing]
+                          Expr(
+                            SingleTerm(
+                              NoUnaryMinus(
+                              ) [NoUnaryMinus]
+                              Term(
+                                SingleFactor(
+                                  DesFactor(
+                                    Dsg(
+                                      OneDesUsing(
+                                       Konstante
+                                       pet
+                                      ) [OneDesUsing]
+                                    ) [Dsg]
+                                  ) [DesFactor]
+                                ) [SingleFactor]
+                              ) [Term]
+                            ) [SingleTerm]
+                            AddTerm(
+                              Sub(
+                              ) [Sub]
+                              Term(
+                                SingleFactor(
+                                  NumFactor(
+                                   3
+                                  ) [NumFactor]
+                                ) [SingleFactor]
+                              ) [Term]
+                              NoAddTerm(
+                              ) [NoAddTerm]
+                            ) [AddTerm]
+                          ) [Expr]
+                        ) [DsqB]
+                        Assignop(
+                        ) [Assignop]
+                        Expr(
+                          SingleTerm(
+                            NoUnaryMinus(
+                            ) [NoUnaryMinus]
+                            Term(
+                              SingleFactor(
+                                CharFactor(
+                                 c
+                                ) [CharFactor]
+                              ) [SingleFactor]
+                            ) [Term]
+                          ) [SingleTerm]
+                          NoAddTerm(
+                          ) [NoAddTerm]
+                        ) [Expr]
+                      ) [DesignatorAssign]
+                    ) [DStmt]
+                  ) [Statements]
+                  SimplePrintStmt(
+                    BExprB(
+                      Expr(
+                        SingleTerm(
+                          NoUnaryMinus(
+                          ) [NoUnaryMinus]
+                          Term(
+                            SingleFactor(
+                              DesFactor(
+                                DsqB(
+                                  OneDesUsing(
+                                   Nizovi
+                                   nizch
+                                  ) [OneDesUsing]
+                                  Expr(
+                                    SingleTerm(
+                                      NoUnaryMinus(
+                                      ) [NoUnaryMinus]
+                                      Term(
+                                        SingleFactor(
+                                          NumFactor(
+                                           1
+                                          ) [NumFactor]
+                                        ) [SingleFactor]
+                                      ) [Term]
+                                    ) [SingleTerm]
+                                    NoAddTerm(
+                                    ) [NoAddTerm]
+                                  ) [Expr]
+                                ) [DsqB]
+                              ) [DesFactor]
+                            ) [SingleFactor]
+                          ) [Term]
+                        ) [SingleTerm]
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                      ) [Expr]
+                    ) [BExprB]
+                  ) [SimplePrintStmt]
+                ) [Statements]
+                SimplePrintStmt(
+                  BExprB(
+                    Expr(
+                      SingleTerm(
+                        NoUnaryMinus(
+                        ) [NoUnaryMinus]
+                        Term(
+                          SingleFactor(
+                            DesFactor(
+                              DsqB(
+                                OneDesUsing(
+                                 Nizovi
+                                 nizch
+                                ) [OneDesUsing]
+                                Expr(
+                                  SingleTerm(
+                                    NoUnaryMinus(
+                                    ) [NoUnaryMinus]
+                                    Term(
+                                      MulFactors(
+                                        SingleFactor(
+                                          DesFactor(
+                                            Dsg(
+                                              OneDesUsing(
+                                               Konstante
+                                               jedan
+                                              ) [OneDesUsing]
+                                            ) [Dsg]
+                                          ) [DesFactor]
+                                        ) [SingleFactor]
+                                        Multiply(
+                                        ) [Multiply]
+                                        NumFactor(
+                                         2
+                                        ) [NumFactor]
+                                      ) [MulFactors]
+                                    ) [Term]
+                                  ) [SingleTerm]
+                                  NoAddTerm(
+                                  ) [NoAddTerm]
+                                ) [Expr]
+                              ) [DsqB]
+                            ) [DesFactor]
+                          ) [SingleFactor]
+                        ) [Term]
+                      ) [SingleTerm]
+                      NoAddTerm(
+                      ) [NoAddTerm]
+                    ) [Expr]
+                  ) [BExprB]
+                ) [SimplePrintStmt]
+              ) [Statements]
+              DStmt(
+                DesignatorAssign(
+                  Dsg(
+                    NoDesUsing(
+                     a
+                    ) [NoDesUsing]
+                  ) [Dsg]
+                  Assignop(
+                  ) [Assignop]
+                  Expr(
+                    SingleTerm(
+                      NoUnaryMinus(
+                      ) [NoUnaryMinus]
+                      Term(
+                        SingleFactor(
+                          NumFactor(
+                           1
+                          ) [NumFactor]
+                        ) [SingleFactor]
+                      ) [Term]
+                    ) [SingleTerm]
+                    NoAddTerm(
+                    ) [NoAddTerm]
+                  ) [Expr]
+                ) [DesignatorAssign]
+              ) [DStmt]
+            ) [Statements]
+            ReadStmt(
+              Dsg(
+                NoDesUsing(
+                 bodovi
+                ) [NoDesUsing]
+              ) [Dsg]
+            ) [ReadStmt]
+          ) [Statements]
+          DStmt(
+            DesignatorAssign(
+              Dsg(
+                NoDesUsing(
+                 bodovi
+                ) [NoDesUsing]
+              ) [Dsg]
+              Assignop(
+              ) [Assignop]
+              Expr(
+                SingleTerm(
+                  OneUnaryMinus(
+                  ) [OneUnaryMinus]
+                  Term(
+                    SingleFactor(
+                      DesFactor(
+                        Dsg(
+                          NoDesUsing(
+                           bodovi
+                          ) [NoDesUsing]
+                        ) [Dsg]
+                      ) [DesFactor]
+                    ) [SingleFactor]
+                  ) [Term]
+                ) [SingleTerm]
+                AddTerm(
+                  Add(
+                  ) [Add]
+                  Term(
+                    MulFactors(
+                      SingleFactor(
+                        ExprFactor(
+                          Expr(
+                            SingleTerm(
+                              NoUnaryMinus(
+                              ) [NoUnaryMinus]
+                              Term(
+                                MulFactors(
+                                  MulFactors(
+                                    SingleFactor(
+                                      DesFactor(
+                                        Dsg(
+                                          OneDesUsing(
+                                           Konstante
+                                           pet
+                                          ) [OneDesUsing]
+                                        ) [Dsg]
+                                      ) [DesFactor]
+                                    ) [SingleFactor]
+                                    Multiply(
+                                    ) [Multiply]
+                                    DesFactor(
+                                      Dsg(
+                                        NoDesUsing(
+                                         a
+                                        ) [NoDesUsing]
+                                      ) [Dsg]
+                                    ) [DesFactor]
+                                  ) [MulFactors]
+                                  Divide(
+                                  ) [Divide]
+                                  NumFactor(
+                                   2
+                                  ) [NumFactor]
+                                ) [MulFactors]
+                              ) [Term]
+                            ) [SingleTerm]
+                            AddTerm(
+                              Sub(
+                              ) [Sub]
+                              Term(
+                                SingleFactor(
+                                  DesFactor(
+                                    Dsg(
+                                      OneDesUsing(
+                                       Konstante
+                                       jedan
+                                      ) [OneDesUsing]
+                                    ) [Dsg]
+                                  ) [DesFactor]
+                                ) [SingleFactor]
+                              ) [Term]
+                              NoAddTerm(
+                              ) [NoAddTerm]
+                            ) [AddTerm]
+                          ) [Expr]
+                        ) [ExprFactor]
+                      ) [SingleFactor]
+                      Multiply(
+                      ) [Multiply]
+                      DesFactor(
+                        Dsg(
+                          NoDesUsing(
+                           bodovi
+                          ) [NoDesUsing]
+                        ) [Dsg]
+                      ) [DesFactor]
+                    ) [MulFactors]
+                  ) [Term]
+                  AddTerm(
+                    Sub(
+                    ) [Sub]
+                    Term(
+                      SingleFactor(
+                        ExprFactor(
+                          Expr(
+                            SingleTerm(
+                              NoUnaryMinus(
+                              ) [NoUnaryMinus]
+                              Term(
+                                MulFactors(
+                                  SingleFactor(
+                                    NumFactor(
+                                     3
+                                    ) [NumFactor]
+                                  ) [SingleFactor]
+                                  Modulo(
+                                  ) [Modulo]
+                                  NumFactor(
+                                   2
+                                  ) [NumFactor]
+                                ) [MulFactors]
+                              ) [Term]
+                            ) [SingleTerm]
+                            AddTerm(
+                              Add(
+                              ) [Add]
+                              Term(
+                                MulFactors(
+                                  SingleFactor(
+                                    NumFactor(
+                                     3
+                                    ) [NumFactor]
+                                  ) [SingleFactor]
+                                  Multiply(
+                                  ) [Multiply]
+                                  NumFactor(
+                                   2
+                                  ) [NumFactor]
+                                ) [MulFactors]
+                              ) [Term]
+                              AddTerm(
+                                Sub(
+                                ) [Sub]
+                                Term(
+                                  SingleFactor(
+                                    NumFactor(
+                                     3
+                                    ) [NumFactor]
+                                  ) [SingleFactor]
+                                ) [Term]
+                                NoAddTerm(
+                                ) [NoAddTerm]
+                              ) [AddTerm]
+                            ) [AddTerm]
+                          ) [Expr]
+                        ) [ExprFactor]
+                      ) [SingleFactor]
+                    ) [Term]
+                    NoAddTerm(
+                    ) [NoAddTerm]
+                  ) [AddTerm]
+                ) [AddTerm]
+              ) [Expr]
+            ) [DesignatorAssign]
+          ) [DStmt]
+        ) [Statements]
+        SimplePrintStmt(
+          BExprB(
+            Expr(
+              SingleTerm(
+                NoUnaryMinus(
+                ) [NoUnaryMinus]
+                Term(
+                  SingleFactor(
+                    DesFactor(
+                      Dsg(
+                        NoDesUsing(
+                         bodovi
+                        ) [NoDesUsing]
+                      ) [Dsg]
+                    ) [DesFactor]
+                  ) [SingleFactor]
+                ) [Term]
+              ) [SingleTerm]
+              NoAddTerm(
+              ) [NoAddTerm]
+            ) [Expr]
+          ) [BExprB]
+        ) [SimplePrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDecls]
+) [Program]
+INFO  19:46:50,419 - ===================================
+INFO  19:46:50,427 - Deklarisana konstanta: const nula = 0 na liniji 6
+INFO  19:46:50,428 - Deklarisana konstanta: const jedan = 1 na liniji 7
+INFO  19:46:50,428 - Deklarisana konstanta: const pet = 5 na liniji 8
+INFO  19:46:50,430 - Deklarisana promenljiva: Konstante::niz na liniji 14
+INFO  19:46:50,430 - Deklarisana promenljiva: Konstante::nizch na liniji 15
+INFO  19:46:50,431 - Deklarisana promenljiva: Nizovi::a na liniji 20
+INFO  19:46:50,432 - Obradjuje se funkcija Nizovi::main na liniji 23
+INFO  19:46:50,432 - Deklarisana promenljiva: Nizovi::bodovi na liniji 24
+INFO  19:46:50,432 - Deklarisana promenljiva: Nizovi::bt na liniji 25
+ERROR 19:46:50,436 - Promenljiva: bodovi nije deklarisana. na liniji 27
+ERROR 19:46:50,437 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 27
+ERROR 19:46:50,437 - Promenljiva: bodovi nije deklarisana. na liniji 28
+ERROR 19:46:50,437 - Sa leve strane mora biti promenljiva, element niza ili polje klase na liniji 28
+ERROR 19:46:50,437 - Tipovi pri dodeli vrednosti nisu komptabilni. Moze se inkrementirati int tip. na liniji 28
+ERROR 19:46:50,437 - Promenljiva: bodovi nije deklarisana. na liniji 29
+ERROR 19:46:50,437 - Promenljiva: bodovi nije deklarisana. na liniji 29
+ERROR 19:46:50,438 - Promenljiva: Konstante::jedan nije deklarisana. na liniji 29
+ERROR 19:46:50,438 - Tip mora biti int pri koriscenju operacije +. na liniji 29
+ERROR 19:46:50,438 - Promenljiva: bodovi nije deklarisana. na liniji 30
+ERROR 19:46:50,439 - Promenljiva: bodovi nije deklarisana. na liniji 30
+ERROR 19:46:50,439 - Promenljiva: Konstante::pet nije deklarisana. na liniji 30
+ERROR 19:46:50,439 - Tip mora biti int pri koriscenju operacije *. na liniji 30
+ERROR 19:46:50,439 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 30
+ERROR 19:46:50,439 - Promenljiva: bodovi nije deklarisana. na liniji 31
+ERROR 19:46:50,439 - Sa leve strane mora biti promenljiva, element niza ili polje klase na liniji 31
+ERROR 19:46:50,439 - Tipovi pri dodeli vrednosti nisu komptabilni. Moze se dekrementirati int tip. na liniji 31
+ERROR 19:46:50,439 - Promenljiva: bodovi nije deklarisana. na liniji 32
+ERROR 19:46:50,439 - Argument fje print mora biti tipa int, char ili bool. na liniji 32
+ERROR 19:46:50,439 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 34
+ERROR 19:46:50,440 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 34
+ERROR 19:46:50,440 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 35
+ERROR 19:46:50,440 - Promenljiva: Konstante::nula nije deklarisana. na liniji 35
+ERROR 19:46:50,440 - Da bi se pristupilo nizu, indeksi su tipa int na liniji 35
+ERROR 19:46:50,440 - Promenljiva mora biti niz. na liniji 35
+ERROR 19:46:50,440 - Promenljiva: Konstante::jedan nije deklarisana. na liniji 35
+ERROR 19:46:50,440 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 35
+ERROR 19:46:50,441 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 36
+ERROR 19:46:50,441 - Promenljiva mora biti niz. na liniji 36
+ERROR 19:46:50,441 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 36
+ERROR 19:46:50,441 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 37
+ERROR 19:46:50,441 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 37
+ERROR 19:46:50,442 - Promenljiva: Konstante::jedan nije deklarisana. na liniji 37
+ERROR 19:46:50,442 - Da bi se pristupilo nizu, indeksi su tipa int na liniji 37
+ERROR 19:46:50,442 - Promenljiva mora biti niz. na liniji 37
+ERROR 19:46:50,442 - Da bi se pristupilo nizu, indeksi su tipa int na liniji 37
+ERROR 19:46:50,443 - Promenljiva mora biti niz. na liniji 37
+ERROR 19:46:50,443 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 37
+ERROR 19:46:50,446 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 37
+ERROR 19:46:50,446 - Promenljiva mora biti niz. na liniji 37
+ERROR 19:46:50,446 - Da bi se pristupilo nizu, indeksi su tipa int na liniji 37
+ERROR 19:46:50,446 - Promenljiva mora biti niz. na liniji 37
+ERROR 19:46:50,446 - Tip mora biti int pri koriscenju operacije *. na liniji 37
+ERROR 19:46:50,446 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 37
+ERROR 19:46:50,446 - Promenljiva: bodovi nije deklarisana. na liniji 38
+ERROR 19:46:50,446 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 38
+ERROR 19:46:50,446 - Promenljiva mora biti niz. na liniji 38
+ERROR 19:46:50,447 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 38
+ERROR 19:46:50,447 - Promenljiva mora biti niz. na liniji 38
+ERROR 19:46:50,447 - Tip mora biti int pri koriscenju operacije *. na liniji 38
+ERROR 19:46:50,447 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 38
+ERROR 19:46:50,447 - Promenljiva: bodovi nije deklarisana. na liniji 39
+ERROR 19:46:50,447 - Argument fje print mora biti tipa int, char ili bool. na liniji 39
+ERROR 19:46:50,447 - Promenljiva: Nizovi::niz nije deklarisana. na liniji 40
+ERROR 19:46:50,448 - Promenljiva mora biti niz. na liniji 40
+ERROR 19:46:50,448 - Argument fje print mora biti tipa int, char ili bool. na liniji 40
+ERROR 19:46:50,448 - Promenljiva: Nizovi::nizch nije deklarisana. na liniji 43
+ERROR 19:46:50,448 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 43
+ERROR 19:46:50,448 - Promenljiva: Nizovi::nizch nije deklarisana. na liniji 44
+ERROR 19:46:50,448 - Promenljiva mora biti niz. na liniji 44
+ERROR 19:46:50,448 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 44
+ERROR 19:46:50,448 - Promenljiva: Nizovi::nizch nije deklarisana. na liniji 45
+ERROR 19:46:50,449 - Promenljiva: Konstante::jedan nije deklarisana. na liniji 45
+ERROR 19:46:50,449 - Da bi se pristupilo nizu, indeksi su tipa int na liniji 45
+ERROR 19:46:50,449 - Promenljiva mora biti niz. na liniji 45
+ERROR 19:46:50,449 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 45
+ERROR 19:46:50,450 - Promenljiva: Nizovi::nizch nije deklarisana. na liniji 46
+ERROR 19:46:50,450 - Promenljiva: Konstante::pet nije deklarisana. na liniji 46
+ERROR 19:46:50,450 - Tip mora biti int pri koriscenju operacije +. na liniji 46
+ERROR 19:46:50,450 - Da bi se pristupilo nizu, indeksi su tipa int na liniji 46
+ERROR 19:46:50,450 - Promenljiva mora biti niz. na liniji 46
+ERROR 19:46:50,450 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 46
+ERROR 19:46:50,450 - Promenljiva: Nizovi::nizch nije deklarisana. na liniji 47
+ERROR 19:46:50,450 - Promenljiva mora biti niz. na liniji 47
+ERROR 19:46:50,450 - Argument fje print mora biti tipa int, char ili bool. na liniji 47
+ERROR 19:46:50,450 - Promenljiva: Nizovi::nizch nije deklarisana. na liniji 48
+ERROR 19:46:50,451 - Promenljiva: Konstante::jedan nije deklarisana. na liniji 48
+ERROR 19:46:50,451 - Tip mora biti int pri koriscenju operacije *. na liniji 48
+ERROR 19:46:50,451 - Promenljiva mora biti niz. na liniji 48
+ERROR 19:46:50,451 - Argument fje print mora biti tipa int, char ili bool. na liniji 48
+ERROR 19:46:50,451 - Promenljiva: a nije deklarisana. na liniji 50
+ERROR 19:46:50,451 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 50
+ERROR 19:46:50,451 - Promenljiva: bodovi nije deklarisana. na liniji 51
+ERROR 19:46:50,451 - Sa leve strane mora biti promenljiva, element niza ili polje klase na liniji 51
+ERROR 19:46:50,451 - Tip mora biti int, char ili bool na liniji 51
+ERROR 19:46:50,451 - Promenljiva: bodovi nije deklarisana. na liniji 52
+ERROR 19:46:50,451 - Promenljiva: bodovi nije deklarisana. na liniji 52
+ERROR 19:46:50,451 - Tip mora biti int. na liniji 52
+ERROR 19:46:50,451 - Promenljiva: Konstante::pet nije deklarisana. na liniji 52
+ERROR 19:46:50,451 - Promenljiva: a nije deklarisana. na liniji 52
+ERROR 19:46:50,452 - Tip mora biti int pri koriscenju operacije *. na liniji 52
+ERROR 19:46:50,452 - Promenljiva: Konstante::jedan nije deklarisana. na liniji 52
+ERROR 19:46:50,452 - Tip mora biti int pri koriscenju operacije +. na liniji 52
+ERROR 19:46:50,452 - Promenljiva: bodovi nije deklarisana. na liniji 52
+ERROR 19:46:50,452 - Tip mora biti int pri koriscenju operacije *. na liniji 52
+ERROR 19:46:50,452 - Tip mora biti int pri koriscenju operacije +. na liniji 52
+ERROR 19:46:50,452 - Tip mora biti int pri koriscenju operacije +. na liniji 52
+ERROR 19:46:50,452 - Tipovi pri dodeli vrednosti nisu komptabilni. na liniji 52
+ERROR 19:46:50,452 - Promenljiva: bodovi nije deklarisana. na liniji 53
+ERROR 19:46:50,452 - Tip mora biti int. na liniji 7
+INFO  19:46:50,453 - ===================================
+ERROR 19:46:50,453 - Parsiranje NIJE uspesno zavrseno!

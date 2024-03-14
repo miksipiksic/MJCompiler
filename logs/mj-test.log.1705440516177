@@ -1,0 +1,317 @@
+INFO  22:22:58,274 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\test301.mj
+INFO  22:22:58,339 - #2 program
+INFO  22:22:58,339 - #46 test301
+INFO  22:22:58,339 - #5 namespace
+INFO  22:22:58,341 - #46 Konstante
+INFO  22:22:58,341 - #3 {
+INFO  22:22:58,342 - #7 const
+INFO  22:22:58,342 - #46 int
+INFO  22:22:58,343 - #46 nula
+INFO  22:22:58,345 - #8 =
+INFO  22:22:58,345 - #45 0
+INFO  22:22:58,345 - #9 ;
+INFO  22:22:58,348 - #7 const
+INFO  22:22:58,349 - #46 int
+INFO  22:22:58,349 - #46 jedan
+INFO  22:22:58,349 - #8 =
+INFO  22:22:58,350 - #45 1
+INFO  22:22:58,350 - #9 ;
+INFO  22:22:58,350 - #7 const
+INFO  22:22:58,350 - #46 int
+INFO  22:22:58,350 - #46 pet
+INFO  22:22:58,351 - #8 =
+INFO  22:22:58,352 - #45 5
+INFO  22:22:58,352 - #9 ;
+INFO  22:22:58,352 - #3 {
+INFO  22:22:58,352 - #4 }
+INFO  22:22:58,353 - #4 }
+INFO  22:22:58,354 - #5 namespace
+INFO  22:22:58,356 - #46 Nizovi
+INFO  22:22:58,356 - #3 {
+INFO  22:22:58,356 - #46 int
+INFO  22:22:58,357 - #46 niz
+INFO  22:22:58,358 - #11 [
+INFO  22:22:58,358 - #12 ]
+INFO  22:22:58,358 - #9 ;
+INFO  22:22:58,360 - #46 char
+INFO  22:22:58,362 - #46 nizch
+INFO  22:22:58,363 - #11 [
+INFO  22:22:58,364 - #12 ]
+INFO  22:22:58,365 - #9 ;
+INFO  22:22:58,365 - #3 {
+INFO  22:22:58,365 - #4 }
+INFO  22:22:58,366 - #4 }
+INFO  22:22:58,366 - #46 int
+INFO  22:22:58,366 - #46 a
+INFO  22:22:58,366 - #9 ;
+INFO  22:22:58,367 - #3 {
+INFO  22:22:58,368 - #15 void
+INFO  22:22:58,368 - #46 main
+INFO  22:22:58,369 - #13 (
+INFO  22:22:58,370 - #14 )
+INFO  22:22:58,371 - #46 int
+INFO  22:22:58,371 - #46 bodovi
+INFO  22:22:58,371 - #9 ;
+INFO  22:22:58,371 - #46 bool
+INFO  22:22:58,372 - #46 bt
+INFO  22:22:58,372 - #9 ;
+INFO  22:22:58,372 - #3 {
+INFO  22:22:58,372 - #46 bodovi
+INFO  22:22:58,373 - #8 =
+INFO  22:22:58,373 - #45 0
+INFO  22:22:58,375 - #9 ;
+INFO  22:22:58,379 - #20 read
+INFO  22:22:58,381 - #13 (
+INFO  22:22:58,382 - #46 bodovi
+INFO  22:22:58,383 - #14 )
+INFO  22:22:58,383 - #9 ;
+INFO  22:22:58,383 - #4 }
+INFO  22:22:58,383 - #4 }
+INFO  22:22:58,404 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+        EntryNamespace(
+         Konstante
+        ) [EntryNamespace]
+        ConstList(
+          ConstList(
+            ConstList(
+              NoList(
+              ) [NoList]
+              ConstDecl(
+                ConstType(
+                  NoUsingType(
+                    TypeDecl(
+                     int
+                    ) [TypeDecl]
+                  ) [NoUsingType]
+                ) [ConstType]
+                AddConst(
+                  NumType(
+                   nula
+                   0
+                  ) [NumType]
+                ) [AddConst]
+                NoAddConstDecls(
+                ) [NoAddConstDecls]
+              ) [ConstDecl]
+            ) [ConstList]
+            ConstDecl(
+              ConstType(
+                NoUsingType(
+                  TypeDecl(
+                   int
+                  ) [TypeDecl]
+                ) [NoUsingType]
+              ) [ConstType]
+              AddConst(
+                NumType(
+                 jedan
+                 1
+                ) [NumType]
+              ) [AddConst]
+              NoAddConstDecls(
+              ) [NoAddConstDecls]
+            ) [ConstDecl]
+          ) [ConstList]
+          ConstDecl(
+            ConstType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [ConstType]
+            AddConst(
+              NumType(
+               pet
+               5
+              ) [NumType]
+            ) [AddConst]
+            NoAddConstDecls(
+            ) [NoAddConstDecls]
+          ) [ConstDecl]
+        ) [ConstList]
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        EndOfNamespace(
+        ) [EndOfNamespace]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+      EntryNamespace(
+       Nizovi
+      ) [EntryNamespace]
+      VarList(
+        VarList(
+          NoList(
+          ) [NoList]
+          VarDecl(
+            VarType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [VarType]
+            NoAddVarDecls(
+              EndVarDecl(
+               niz
+                AddSqBrackets(
+                ) [AddSqBrackets]
+              ) [EndVarDecl]
+            ) [NoAddVarDecls]
+          ) [VarDecl]
+        ) [VarList]
+        VarDecl(
+          VarType(
+            NoUsingType(
+              TypeDecl(
+               char
+              ) [TypeDecl]
+            ) [NoUsingType]
+          ) [VarType]
+          NoAddVarDecls(
+            EndVarDecl(
+             nizch
+              AddSqBrackets(
+              ) [AddSqBrackets]
+            ) [EndVarDecl]
+          ) [NoAddVarDecls]
+        ) [VarDecl]
+      ) [VarList]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      EndOfNamespace(
+      ) [EndOfNamespace]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  VarList(
+    NoList(
+    ) [NoList]
+    VarDecl(
+      VarType(
+        NoUsingType(
+          TypeDecl(
+           int
+          ) [TypeDecl]
+        ) [NoUsingType]
+      ) [VarType]
+      NoAddVarDecls(
+        EndVarDecl(
+         a
+          NoBrackets(
+          ) [NoBrackets]
+        ) [EndVarDecl]
+      ) [NoAddVarDecls]
+    ) [VarDecl]
+  ) [VarList]
+  MethodDecls(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        RetVoid(
+        ) [RetVoid]
+       main
+      ) [MethodTypeName]
+      FormalPar(
+      ) [FormalPar]
+      MethodVars(
+        MethodVars(
+          NoMethodVars(
+          ) [NoMethodVars]
+          VarDecl(
+            VarType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [VarType]
+            NoAddVarDecls(
+              EndVarDecl(
+               bodovi
+                NoBrackets(
+                ) [NoBrackets]
+              ) [EndVarDecl]
+            ) [NoAddVarDecls]
+          ) [VarDecl]
+        ) [MethodVars]
+        VarDecl(
+          VarType(
+            NoUsingType(
+              TypeDecl(
+               bool
+              ) [TypeDecl]
+            ) [NoUsingType]
+          ) [VarType]
+          NoAddVarDecls(
+            EndVarDecl(
+             bt
+              NoBrackets(
+              ) [NoBrackets]
+            ) [EndVarDecl]
+          ) [NoAddVarDecls]
+        ) [VarDecl]
+      ) [MethodVars]
+      Statements(
+        Statements(
+          NoStatement(
+          ) [NoStatement]
+          DStmt(
+            DesignatorAssign(
+              Dsg(
+                NoDesUsing(
+                 bodovi
+                ) [NoDesUsing]
+              ) [Dsg]
+              Assignop(
+              ) [Assignop]
+              Expr(
+                SingleTerm(
+                  NoUnaryMinus(
+                  ) [NoUnaryMinus]
+                  Term(
+                    SingleFactor(
+                      NumFactor(
+                       0
+                      ) [NumFactor]
+                    ) [SingleFactor]
+                  ) [Term]
+                ) [SingleTerm]
+                NoAddTerm(
+                ) [NoAddTerm]
+              ) [Expr]
+            ) [DesignatorAssign]
+          ) [DStmt]
+        ) [Statements]
+        ReadStmt(
+          Dsg(
+            NoDesUsing(
+             bodovi
+            ) [NoDesUsing]
+          ) [Dsg]
+        ) [ReadStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDecls]
+) [Program]
+INFO  22:22:58,404 - ===================================
+INFO  22:22:58,410 - Deklarisana konstanta: const Konstante::nula = 0 na liniji 6
+INFO  22:22:58,410 - Deklarisana konstanta: const Konstante::jedan = 1 na liniji 7
+INFO  22:22:58,410 - Deklarisana konstanta: const Konstante::pet = 5 na liniji 8
+INFO  22:22:58,411 - Deklarisana promenljiva: Nizovi::niz na liniji 14
+INFO  22:22:58,411 - Deklarisana promenljiva: Nizovi::nizch na liniji 15
+INFO  22:22:58,411 - Deklarisana promenljiva: a na liniji 20
+INFO  22:22:58,412 - Obradjuje se funkcija main na liniji 23
+INFO  22:22:58,412 - Deklarisana promenljiva: bodovi na liniji 24
+INFO  22:22:58,412 - Deklarisana promenljiva: bt na liniji 25
+INFO  22:22:58,413 - ===================================
+INFO  22:22:58,419 - Parsiranje uspesno zavrseno!

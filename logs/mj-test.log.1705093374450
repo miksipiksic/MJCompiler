@@ -1,0 +1,9 @@
+INFO  21:59:31,322 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  21:59:31,402 - #2 program
+INFO  21:59:31,403 - #48 MJProgram
+INFO  21:59:31,403 - #48 int
+ERROR 21:59:31,403 - 
+Sintaksna greska na liniji 2
+ERROR 21:59:31,404 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2
+INFO  21:59:31,404 - Parser symbol: null
+ERROR 21:59:31,404 - Error during parsing: Cannot read field "value" because "s" is null

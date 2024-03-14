@@ -1,0 +1,11 @@
+INFO  14:27:13,433 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  14:27:13,495 - #2 program
+INFO  14:27:13,496 - #46 MJProgram
+INFO  14:27:13,496 - #5 namespace
+INFO  14:27:13,498 - #46 x
+INFO  14:27:13,498 - #3 {
+INFO  14:27:13,498 - #3 {
+INFO  14:27:13,500 - #7 const
+ERROR 14:27:13,500 - 
+Sintaksna greska na liniji 5
+ERROR 14:27:13,500 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 5

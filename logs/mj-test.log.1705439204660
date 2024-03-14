@@ -1,0 +1,146 @@
+INFO  22:04:52,914 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  22:04:52,981 - #2 program
+INFO  22:04:52,982 - #46 MJProgram
+INFO  22:04:52,982 - #5 namespace
+INFO  22:04:52,984 - #46 x
+INFO  22:04:52,985 - #3 {
+INFO  22:04:52,986 - #7 const
+INFO  22:04:52,987 - #46 int
+INFO  22:04:52,988 - #46 a
+INFO  22:04:52,991 - #8 =
+INFO  22:04:52,991 - #45 5
+INFO  22:04:52,991 - #6 ,
+INFO  22:04:52,993 - #46 b
+INFO  22:04:52,993 - #8 =
+INFO  22:04:52,993 - #45 7
+INFO  22:04:52,993 - #9 ;
+INFO  22:04:52,994 - #46 int
+INFO  22:04:52,995 - #46 x
+INFO  22:04:52,996 - #11 [
+INFO  22:04:52,996 - #12 ]
+INFO  22:04:52,997 - #6 ,
+INFO  22:04:52,998 - #46 y
+INFO  22:04:52,999 - #11 [
+INFO  22:04:53,001 - #12 ]
+INFO  22:04:53,001 - #9 ;
+INFO  22:04:53,002 - #46 int
+INFO  22:04:53,004 - #46 z
+INFO  22:04:53,004 - #6 ,
+INFO  22:04:53,008 - #46 o
+INFO  22:04:53,008 - #9 ;
+INFO  22:04:53,008 - #3 {
+INFO  22:04:53,008 - #4 }
+INFO  22:04:53,009 - #4 }
+INFO  22:04:53,010 - #3 {
+INFO  22:04:53,011 - #4 }
+INFO  22:04:53,025 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      EntryNamespace(
+       x
+      ) [EntryNamespace]
+      VarList(
+        VarList(
+          ConstList(
+            NoList(
+            ) [NoList]
+            ConstDecl(
+              ConstType(
+                NoUsingType(
+                  TypeDecl(
+                   int
+                  ) [TypeDecl]
+                ) [NoUsingType]
+              ) [ConstType]
+              AddConst(
+                NumType(
+                 a
+                 5
+                ) [NumType]
+              ) [AddConst]
+              AddConstDecls(
+                NoAddConstDecls(
+                ) [NoAddConstDecls]
+                AddConst(
+                  NumType(
+                   b
+                   7
+                  ) [NumType]
+                ) [AddConst]
+              ) [AddConstDecls]
+            ) [ConstDecl]
+          ) [ConstList]
+          VarDecl(
+            VarType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [VarType]
+            AddVarDecls(
+              AddVarDecl(
+               x
+                AddSqBrackets(
+                ) [AddSqBrackets]
+              ) [AddVarDecl]
+              NoAddVarDecls(
+                EndVarDecl(
+                 y
+                  AddSqBrackets(
+                  ) [AddSqBrackets]
+                ) [EndVarDecl]
+              ) [NoAddVarDecls]
+            ) [AddVarDecls]
+          ) [VarDecl]
+        ) [VarList]
+        VarDecl(
+          VarType(
+            NoUsingType(
+              TypeDecl(
+               int
+              ) [TypeDecl]
+            ) [NoUsingType]
+          ) [VarType]
+          AddVarDecls(
+            AddVarDecl(
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [AddVarDecl]
+            NoAddVarDecls(
+              EndVarDecl(
+               o
+                NoBrackets(
+                ) [NoBrackets]
+              ) [EndVarDecl]
+            ) [NoAddVarDecls]
+          ) [AddVarDecls]
+        ) [VarDecl]
+      ) [VarList]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      EndOfNamespace(
+      ) [EndOfNamespace]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  NoList(
+  ) [NoList]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  22:04:53,025 - ===================================
+INFO  22:04:53,033 - Deklarisana konstanta: const x::a = 5 na liniji 4
+INFO  22:04:53,033 - Deklarisana konstanta: const x::b = 7 na liniji 4
+INFO  22:04:53,034 - Deklarisana promenljiva: x::x na liniji 5
+INFO  22:04:53,034 - Deklarisana promenljiva: x::y na liniji 5
+INFO  22:04:53,035 - Deklarisana promenljiva: x::z na liniji 6
+INFO  22:04:53,035 - Deklarisana promenljiva: x::o na liniji 6
+ERROR 22:04:53,035 - void main() nije pronadjen!
+INFO  22:04:53,035 - ===================================
+ERROR 22:04:53,036 - Parsiranje NIJE uspesno zavrseno!

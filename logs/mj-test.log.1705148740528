@@ -1,0 +1,475 @@
+INFO  13:25:01,377 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  13:25:01,440 - #2 program
+INFO  13:25:01,440 - #48 MJProgram
+INFO  13:25:01,440 - #5 namespace
+INFO  13:25:01,441 - #48 x
+INFO  13:25:01,441 - #3 {
+INFO  13:25:01,441 - #7 const
+INFO  13:25:01,441 - #48 int
+INFO  13:25:01,441 - #48 a
+INFO  13:25:01,443 - #8 =
+INFO  13:25:01,443 - #47 5
+INFO  13:25:01,443 - #6 ,
+INFO  13:25:01,445 - #48 b
+INFO  13:25:01,445 - #8 =
+INFO  13:25:01,445 - #47 7
+INFO  13:25:01,445 - #11 ;
+INFO  13:25:01,446 - #48 int
+INFO  13:25:01,447 - #48 x
+INFO  13:25:01,447 - #13 [
+INFO  13:25:01,448 - #14 ]
+INFO  13:25:01,448 - #6 ,
+INFO  13:25:01,450 - #48 y
+INFO  13:25:01,450 - #13 [
+INFO  13:25:01,451 - #14 ]
+INFO  13:25:01,451 - #11 ;
+INFO  13:25:01,456 - #48 int
+INFO  13:25:01,458 - #48 z
+INFO  13:25:01,458 - #6 ,
+INFO  13:25:01,459 - #48 o
+INFO  13:25:01,460 - #11 ;
+INFO  13:25:01,460 - #3 {
+INFO  13:25:01,461 - #48 int
+INFO  13:25:01,461 - #48 methd
+INFO  13:25:01,461 - #15 (
+INFO  13:25:01,461 - #48 integer
+INFO  13:25:01,461 - #12 :
+INFO  13:25:01,462 - #12 :
+INFO  13:25:01,462 - #48 int
+INFO  13:25:01,462 - #48 x
+INFO  13:25:01,462 - #6 ,
+INFO  13:25:01,464 - #48 double
+INFO  13:25:01,464 - #48 y
+INFO  13:25:01,464 - #13 [
+INFO  13:25:01,464 - #14 ]
+INFO  13:25:01,464 - #16 )
+INFO  13:25:01,466 - #3 {
+INFO  13:25:01,467 - #18 break
+INFO  13:25:01,467 - #11 ;
+INFO  13:25:01,467 - #19 continue
+INFO  13:25:01,468 - #11 ;
+INFO  13:25:01,468 - #20 return
+INFO  13:25:01,469 - #11 ;
+INFO  13:25:01,470 - #20 return
+INFO  13:25:01,470 - #47 5
+INFO  13:25:01,472 - #11 ;
+INFO  13:25:01,476 - #20 return
+INFO  13:25:01,477 - #48 x
+INFO  13:25:01,478 - #11 ;
+INFO  13:25:01,481 - #20 return
+INFO  13:25:01,481 - #48 true
+INFO  13:25:01,481 - #11 ;
+INFO  13:25:01,482 - #20 return
+INFO  13:25:01,482 - #15 (
+INFO  13:25:01,482 - #48 x
+INFO  13:25:01,483 - #16 )
+INFO  13:25:01,483 - #11 ;
+INFO  13:25:01,483 - #20 return
+INFO  13:25:01,483 - #36 new
+INFO  13:25:01,484 - #48 int
+INFO  13:25:01,484 - #13 [
+INFO  13:25:01,484 - #48 x
+INFO  13:25:01,484 - #14 ]
+INFO  13:25:01,484 - #11 ;
+INFO  13:25:01,484 - #20 return
+INFO  13:25:01,484 - #36 new
+INFO  13:25:01,485 - #48 int
+INFO  13:25:01,485 - #15 (
+INFO  13:25:01,485 - #47 5
+INFO  13:25:01,485 - #16 )
+INFO  13:25:01,487 - #11 ;
+INFO  13:25:01,487 - #20 return
+INFO  13:25:01,488 - #36 new
+INFO  13:25:01,490 - #48 int
+INFO  13:25:01,490 - #15 (
+INFO  13:25:01,491 - #16 )
+INFO  13:25:01,492 - #11 ;
+INFO  13:25:01,493 - #4 }
+INFO  13:25:01,494 - #4 }
+INFO  13:25:01,497 - #4 }
+INFO  13:25:01,497 - #3 {
+INFO  13:25:01,498 - #4 }
+INFO  13:25:01,512 - Program(
+ MJProgram
+  NamespaceDecls(
+    NamespaceDeclaration(
+     x
+      ManyLists(
+        CList(
+          ConstDecl(
+            Type(
+             int
+              NoUsing(
+              ) [NoUsing]
+            ) [Type]
+            AddConst(
+             a
+              NumType(
+               5
+              ) [NumType]
+            ) [AddConst]
+            AddConstDecls(
+              AddConst(
+               b
+                NumType(
+                 7
+                ) [NumType]
+              ) [AddConst]
+              NoAddConstDecls(
+              ) [NoAddConstDecls]
+            ) [AddConstDecls]
+          ) [ConstDecl]
+        ) [CList]
+        ManyLists(
+          VList(
+            VarDecl(
+              Type(
+               int
+                NoUsing(
+                ) [NoUsing]
+              ) [Type]
+              AddVar(
+               x
+                AddSqBrackets(
+                ) [AddSqBrackets]
+              ) [AddVar]
+              AddVarDecls(
+                AddVar(
+                 y
+                  AddSqBrackets(
+                  ) [AddSqBrackets]
+                ) [AddVar]
+                NoAddVarDecls(
+                ) [NoAddVarDecls]
+              ) [AddVarDecls]
+            ) [VarDecl]
+          ) [VList]
+          ManyLists(
+            VList(
+              VarDecl(
+                Type(
+                 int
+                  NoUsing(
+                  ) [NoUsing]
+                ) [Type]
+                AddVar(
+                 z
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [AddVar]
+                AddVarDecls(
+                  AddVar(
+                   o
+                    NoBrackets(
+                    ) [NoBrackets]
+                  ) [AddVar]
+                  NoAddVarDecls(
+                  ) [NoAddVarDecls]
+                ) [AddVarDecls]
+              ) [VarDecl]
+            ) [VList]
+            NoLists(
+            ) [NoLists]
+          ) [ManyLists]
+        ) [ManyLists]
+      ) [ManyLists]
+      MethodDecls(
+        MethodDecl(
+          SimpleRetType(
+            Type(
+             int
+              NoUsing(
+              ) [NoUsing]
+            ) [Type]
+          ) [SimpleRetType]
+         methd
+          FormalPars(
+            FormalParam(
+              AddFormal(
+                Type(
+                 integer
+                  UsingTypeDecl(
+                   int
+                  ) [UsingTypeDecl]
+                ) [Type]
+               x
+                NoBrackets(
+                ) [NoBrackets]
+              ) [AddFormal]
+              AddFormals(
+                AddFormal(
+                  Type(
+                   double
+                    NoUsing(
+                    ) [NoUsing]
+                  ) [Type]
+                 y
+                  AddSqBrackets(
+                  ) [AddSqBrackets]
+                ) [AddFormal]
+                NoAddFormals(
+                ) [NoAddFormals]
+              ) [AddFormals]
+            ) [FormalParam]
+          ) [FormalPars]
+          NoVarDecls(
+          ) [NoVarDecls]
+          Statements(
+            BreakStmt(
+            ) [BreakStmt]
+            Statements(
+              ConitnueStmt(
+              ) [ConitnueStmt]
+              Statements(
+                ReturnStmt(
+                  NoReturnExpr(
+                  ) [NoReturnExpr]
+                ) [ReturnStmt]
+                Statements(
+                  ReturnStmt(
+                    SingleReturnExpr(
+                      Expr(
+                        NoUnaryMinus(
+                        ) [NoUnaryMinus]
+                        Term(
+                          NumFactor(
+                           5
+                          ) [NumFactor]
+                          NoMulFactors(
+                          ) [NoMulFactors]
+                        ) [Term]
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                      ) [Expr]
+                    ) [SingleReturnExpr]
+                  ) [ReturnStmt]
+                  Statements(
+                    ReturnStmt(
+                      SingleReturnExpr(
+                        Expr(
+                          NoUnaryMinus(
+                          ) [NoUnaryMinus]
+                          Term(
+                            FactorDerived2(
+                              Designator(
+                                NoDesProp(
+                                ) [NoDesProp]
+                               x
+                                DesListDerived1(
+                                ) [DesListDerived1]
+                              ) [Designator]
+                              NoDesFact(
+                              ) [NoDesFact]
+                            ) [FactorDerived2]
+                            NoMulFactors(
+                            ) [NoMulFactors]
+                          ) [Term]
+                          NoAddTerm(
+                          ) [NoAddTerm]
+                        ) [Expr]
+                      ) [SingleReturnExpr]
+                    ) [ReturnStmt]
+                    Statements(
+                      ReturnStmt(
+                        SingleReturnExpr(
+                          Expr(
+                            NoUnaryMinus(
+                            ) [NoUnaryMinus]
+                            Term(
+                              FactorDerived2(
+                                Designator(
+                                  NoDesProp(
+                                  ) [NoDesProp]
+                                 true
+                                  DesListDerived1(
+                                  ) [DesListDerived1]
+                                ) [Designator]
+                                NoDesFact(
+                                ) [NoDesFact]
+                              ) [FactorDerived2]
+                              NoMulFactors(
+                              ) [NoMulFactors]
+                            ) [Term]
+                            NoAddTerm(
+                            ) [NoAddTerm]
+                          ) [Expr]
+                        ) [SingleReturnExpr]
+                      ) [ReturnStmt]
+                      Statements(
+                        ReturnStmt(
+                          SingleReturnExpr(
+                            Expr(
+                              NoUnaryMinus(
+                              ) [NoUnaryMinus]
+                              Term(
+                                ExprFactor(
+                                  Expr(
+                                    NoUnaryMinus(
+                                    ) [NoUnaryMinus]
+                                    Term(
+                                      FactorDerived2(
+                                        Designator(
+                                          NoDesProp(
+                                          ) [NoDesProp]
+                                         x
+                                          DesListDerived1(
+                                          ) [DesListDerived1]
+                                        ) [Designator]
+                                        NoDesFact(
+                                        ) [NoDesFact]
+                                      ) [FactorDerived2]
+                                      NoMulFactors(
+                                      ) [NoMulFactors]
+                                    ) [Term]
+                                    NoAddTerm(
+                                    ) [NoAddTerm]
+                                  ) [Expr]
+                                ) [ExprFactor]
+                                NoMulFactors(
+                                ) [NoMulFactors]
+                              ) [Term]
+                              NoAddTerm(
+                              ) [NoAddTerm]
+                            ) [Expr]
+                          ) [SingleReturnExpr]
+                        ) [ReturnStmt]
+                        Statements(
+                          ReturnStmt(
+                            SingleReturnExpr(
+                              Expr(
+                                NoUnaryMinus(
+                                ) [NoUnaryMinus]
+                                Term(
+                                  FactorDerived1(
+                                    Type(
+                                     int
+                                      NoUsing(
+                                      ) [NoUsing]
+                                    ) [Type]
+                                    FEOpt(
+                                      Expr(
+                                        NoUnaryMinus(
+                                        ) [NoUnaryMinus]
+                                        Term(
+                                          FactorDerived2(
+                                            Designator(
+                                              NoDesProp(
+                                              ) [NoDesProp]
+                                             x
+                                              DesListDerived1(
+                                              ) [DesListDerived1]
+                                            ) [Designator]
+                                            NoDesFact(
+                                            ) [NoDesFact]
+                                          ) [FactorDerived2]
+                                          NoMulFactors(
+                                          ) [NoMulFactors]
+                                        ) [Term]
+                                        NoAddTerm(
+                                        ) [NoAddTerm]
+                                      ) [Expr]
+                                    ) [FEOpt]
+                                  ) [FactorDerived1]
+                                  NoMulFactors(
+                                  ) [NoMulFactors]
+                                ) [Term]
+                                NoAddTerm(
+                                ) [NoAddTerm]
+                              ) [Expr]
+                            ) [SingleReturnExpr]
+                          ) [ReturnStmt]
+                          Statements(
+                            ReturnStmt(
+                              SingleReturnExpr(
+                                Expr(
+                                  NoUnaryMinus(
+                                  ) [NoUnaryMinus]
+                                  Term(
+                                    FactorDerived1(
+                                      Type(
+                                       int
+                                        NoUsing(
+                                        ) [NoUsing]
+                                      ) [Type]
+                                      APOpt(
+                                        ActParDecls(
+                                          Expr(
+                                            NoUnaryMinus(
+                                            ) [NoUnaryMinus]
+                                            Term(
+                                              NumFactor(
+                                               5
+                                              ) [NumFactor]
+                                              NoMulFactors(
+                                              ) [NoMulFactors]
+                                            ) [Term]
+                                            NoAddTerm(
+                                            ) [NoAddTerm]
+                                          ) [Expr]
+                                          NoExprs(
+                                          ) [NoExprs]
+                                        ) [ActParDecls]
+                                      ) [APOpt]
+                                    ) [FactorDerived1]
+                                    NoMulFactors(
+                                    ) [NoMulFactors]
+                                  ) [Term]
+                                  NoAddTerm(
+                                  ) [NoAddTerm]
+                                ) [Expr]
+                              ) [SingleReturnExpr]
+                            ) [ReturnStmt]
+                            Statements(
+                              ReturnStmt(
+                                SingleReturnExpr(
+                                  Expr(
+                                    NoUnaryMinus(
+                                    ) [NoUnaryMinus]
+                                    Term(
+                                      FactorDerived1(
+                                        Type(
+                                         int
+                                          NoUsing(
+                                          ) [NoUsing]
+                                        ) [Type]
+                                        APOpt(
+                                          NoActPars(
+                                          ) [NoActPars]
+                                        ) [APOpt]
+                                      ) [FactorDerived1]
+                                      NoMulFactors(
+                                      ) [NoMulFactors]
+                                    ) [Term]
+                                    NoAddTerm(
+                                    ) [NoAddTerm]
+                                  ) [Expr]
+                                ) [SingleReturnExpr]
+                              ) [ReturnStmt]
+                              NoStatement(
+                              ) [NoStatement]
+                            ) [Statements]
+                          ) [Statements]
+                        ) [Statements]
+                      ) [Statements]
+                    ) [Statements]
+                  ) [Statements]
+                ) [Statements]
+              ) [Statements]
+            ) [Statements]
+          ) [Statements]
+        ) [MethodDecl]
+        NoMethodDecl(
+        ) [NoMethodDecl]
+      ) [MethodDecls]
+    ) [NamespaceDeclaration]
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+  ) [NamespaceDecls]
+  NoLists(
+  ) [NoLists]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  13:25:01,513 - ===================================
+INFO  13:25:01,521 -  Print count calls = 0
+INFO  13:25:01,522 -  Deklarisanih promenljivih ima = 2

@@ -1,0 +1,696 @@
+INFO  15:31:29,685 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  15:31:29,774 - #2 program
+INFO  15:31:29,774 - #46 MJProgram
+INFO  15:31:29,774 - #5 namespace
+INFO  15:31:29,776 - #46 x
+INFO  15:31:29,776 - #3 {
+INFO  15:31:29,777 - #7 const
+INFO  15:31:29,777 - #46 int
+INFO  15:31:29,778 - #46 a
+INFO  15:31:29,779 - #8 =
+INFO  15:31:29,779 - #45 5
+INFO  15:31:29,779 - #6 ,
+INFO  15:31:29,781 - #46 b
+INFO  15:31:29,782 - #8 =
+INFO  15:31:29,782 - #45 7
+INFO  15:31:29,782 - #9 ;
+INFO  15:31:29,782 - #46 int
+INFO  15:31:29,785 - #46 x
+INFO  15:31:29,789 - #11 [
+INFO  15:31:29,791 - #12 ]
+INFO  15:31:29,791 - #6 ,
+INFO  15:31:29,793 - #46 y
+INFO  15:31:29,794 - #11 [
+INFO  15:31:29,795 - #12 ]
+INFO  15:31:29,795 - #9 ;
+INFO  15:31:29,795 - #46 int
+INFO  15:31:29,797 - #46 z
+INFO  15:31:29,797 - #6 ,
+INFO  15:31:29,798 - #46 o
+INFO  15:31:29,798 - #9 ;
+INFO  15:31:29,798 - #3 {
+INFO  15:31:29,798 - #46 int
+INFO  15:31:29,799 - #46 methd
+INFO  15:31:29,799 - #13 (
+INFO  15:31:29,799 - #46 integer
+INFO  15:31:29,799 - #10 :
+INFO  15:31:29,800 - #10 :
+INFO  15:31:29,800 - #46 int
+INFO  15:31:29,800 - #46 x
+INFO  15:31:29,800 - #6 ,
+INFO  15:31:29,802 - #46 double
+INFO  15:31:29,802 - #46 y
+INFO  15:31:29,802 - #11 [
+INFO  15:31:29,802 - #12 ]
+INFO  15:31:29,803 - #14 )
+INFO  15:31:29,803 - #3 {
+INFO  15:31:29,806 - #16 break
+INFO  15:31:29,807 - #9 ;
+INFO  15:31:29,807 - #17 continue
+INFO  15:31:29,808 - #9 ;
+INFO  15:31:29,808 - #18 return
+INFO  15:31:29,809 - #9 ;
+INFO  15:31:29,809 - #18 return
+INFO  15:31:29,810 - #45 5
+INFO  15:31:29,811 - #9 ;
+INFO  15:31:29,813 - #18 return
+INFO  15:31:29,813 - #46 x
+INFO  15:31:29,814 - #9 ;
+INFO  15:31:29,814 - #18 return
+INFO  15:31:29,814 - #46 true
+INFO  15:31:29,814 - #9 ;
+INFO  15:31:29,814 - #18 return
+INFO  15:31:29,815 - #13 (
+INFO  15:31:29,815 - #46 x
+INFO  15:31:29,815 - #14 )
+INFO  15:31:29,815 - #9 ;
+INFO  15:31:29,816 - #18 return
+INFO  15:31:29,816 - #34 new
+INFO  15:31:29,816 - #46 int
+INFO  15:31:29,816 - #11 [
+INFO  15:31:29,816 - #46 x
+INFO  15:31:29,816 - #12 ]
+INFO  15:31:29,817 - #9 ;
+INFO  15:31:29,817 - #18 return
+INFO  15:31:29,817 - #34 new
+INFO  15:31:29,817 - #46 int
+INFO  15:31:29,817 - #13 (
+INFO  15:31:29,817 - #45 5
+INFO  15:31:29,818 - #14 )
+INFO  15:31:29,819 - #9 ;
+INFO  15:31:29,819 - #18 return
+INFO  15:31:29,819 - #34 new
+INFO  15:31:29,820 - #46 int
+INFO  15:31:29,820 - #13 (
+INFO  15:31:29,820 - #14 )
+INFO  15:31:29,824 - #9 ;
+INFO  15:31:29,824 - #18 return
+INFO  15:31:29,824 - #46 klasa
+INFO  15:31:29,824 - #10 :
+INFO  15:31:29,825 - #10 :
+INFO  15:31:29,825 - #46 klasa
+INFO  15:31:29,825 - #13 (
+INFO  15:31:29,827 - #46 false
+INFO  15:31:29,827 - #14 )
+INFO  15:31:29,827 - #9 ;
+INFO  15:31:29,827 - #19 print
+INFO  15:31:29,828 - #13 (
+INFO  15:31:29,828 - #46 x
+INFO  15:31:29,828 - #14 )
+INFO  15:31:29,828 - #9 ;
+INFO  15:31:29,830 - #19 print
+INFO  15:31:29,830 - #13 (
+INFO  15:31:29,830 - #46 x
+INFO  15:31:29,830 - #6 ,
+INFO  15:31:29,831 - #45 5
+INFO  15:31:29,831 - #14 )
+INFO  15:31:29,831 - #9 ;
+INFO  15:31:29,831 - #20 read
+INFO  15:31:29,831 - #13 (
+INFO  15:31:29,831 - #46 klasa
+INFO  15:31:29,832 - #10 :
+INFO  15:31:29,832 - #10 :
+INFO  15:31:29,832 - #46 k
+INFO  15:31:29,832 - #14 )
+INFO  15:31:29,832 - #9 ;
+INFO  15:31:29,832 - #21 if
+INFO  15:31:29,832 - #13 (
+INFO  15:31:29,833 - #46 x
+INFO  15:31:29,833 - #29 >
+INFO  15:31:29,833 - #45 5
+INFO  15:31:29,835 - #14 )
+INFO  15:31:29,836 - #3 {
+ERROR 15:31:29,836 - 
+Sintaksna greska na liniji 28
+INFO  15:31:29,836 - #46 x
+INFO  15:31:29,836 - #8 =
+INFO  15:31:29,837 - #9 ;
+INFO  15:31:29,841 - #22 else
+INFO  15:31:29,842 - #21 if
+INFO  15:31:29,842 - #13 (
+ERROR 15:31:29,848 - Izvrsen oporavak do ; u liniji 28
+INFO  15:31:29,849 - #46 x
+INFO  15:31:29,849 - #27 ==
+INFO  15:31:29,850 - #45 7
+INFO  15:31:29,850 - #14 )
+INFO  15:31:29,851 - #17 continue
+INFO  15:31:29,851 - #9 ;
+INFO  15:31:29,851 - #4 }
+INFO  15:31:29,851 - #4 }
+INFO  15:31:29,853 - #4 }
+INFO  15:31:29,853 - #3 {
+INFO  15:31:29,854 - #4 }
+INFO  15:31:29,870 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDeclaration(
+     x
+      ManyLists(
+        ManyLists(
+          ManyLists(
+            NoLists(
+            ) [NoLists]
+            CList(
+              ConstDecl(
+                ConstType(
+                  NoUsingType(
+                    TypeDecl(
+                     int
+                    ) [TypeDecl]
+                  ) [NoUsingType]
+                ) [ConstType]
+                AddConst(
+                 a
+                  NumType(
+                   5
+                  ) [NumType]
+                ) [AddConst]
+                AddConstDecls(
+                  NoAddConstDecls(
+                  ) [NoAddConstDecls]
+                  AddConst(
+                   b
+                    NumType(
+                     7
+                    ) [NumType]
+                  ) [AddConst]
+                ) [AddConstDecls]
+              ) [ConstDecl]
+            ) [CList]
+          ) [ManyLists]
+          VList(
+            VarDecl(
+              VarType(
+                NoUsingType(
+                  TypeDecl(
+                   int
+                  ) [TypeDecl]
+                ) [NoUsingType]
+              ) [VarType]
+              AddVarDecls(
+                AddVarDecl(
+                  VarName(
+                   x
+                  ) [VarName]
+                  AddSqBrackets(
+                  ) [AddSqBrackets]
+                ) [AddVarDecl]
+                NoAddVarDecls(
+                  EndVarDecl(
+                    VarName(
+                     y
+                    ) [VarName]
+                    AddSqBrackets(
+                    ) [AddSqBrackets]
+                  ) [EndVarDecl]
+                ) [NoAddVarDecls]
+              ) [AddVarDecls]
+            ) [VarDecl]
+          ) [VList]
+        ) [ManyLists]
+        VList(
+          VarDecl(
+            VarType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [VarType]
+            AddVarDecls(
+              AddVarDecl(
+                VarName(
+                 z
+                ) [VarName]
+                NoBrackets(
+                ) [NoBrackets]
+              ) [AddVarDecl]
+              NoAddVarDecls(
+                EndVarDecl(
+                  VarName(
+                   o
+                  ) [VarName]
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [EndVarDecl]
+              ) [NoAddVarDecls]
+            ) [AddVarDecls]
+          ) [VarDecl]
+        ) [VList]
+      ) [ManyLists]
+      MethodDecls(
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        MethodDecl(
+          SimpleRetType(
+            NoUsingType(
+              TypeDecl(
+               int
+              ) [TypeDecl]
+            ) [NoUsingType]
+          ) [SimpleRetType]
+         methd
+          FormalPars(
+            FormalParam(
+              AddFormal(
+                UsingTypeDecl(
+                 integer
+                  TypeDecl(
+                   int
+                  ) [TypeDecl]
+                ) [UsingTypeDecl]
+               x
+                NoBrackets(
+                ) [NoBrackets]
+              ) [AddFormal]
+              AddFormals(
+                NoAddFormals(
+                ) [NoAddFormals]
+                AddFormal(
+                  NoUsingType(
+                    TypeDecl(
+                     double
+                    ) [TypeDecl]
+                  ) [NoUsingType]
+                 y
+                  AddSqBrackets(
+                  ) [AddSqBrackets]
+                ) [AddFormal]
+              ) [AddFormals]
+            ) [FormalParam]
+          ) [FormalPars]
+          NoVarDecls(
+          ) [NoVarDecls]
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        NoStatement(
+                                        ) [NoStatement]
+                                        BreakStmt(
+                                        ) [BreakStmt]
+                                      ) [Statements]
+                                      ConitnueStmt(
+                                      ) [ConitnueStmt]
+                                    ) [Statements]
+                                    ReturnStmt(
+                                    ) [ReturnStmt]
+                                  ) [Statements]
+                                  ReturnExprStmt(
+                                    Expr(
+                                      NoUnaryMinus(
+                                      ) [NoUnaryMinus]
+                                      Term(
+                                        SingleFactor(
+                                          NumFactor(
+                                           5
+                                          ) [NumFactor]
+                                        ) [SingleFactor]
+                                      ) [Term]
+                                      NoAddTerm(
+                                      ) [NoAddTerm]
+                                    ) [Expr]
+                                  ) [ReturnExprStmt]
+                                ) [Statements]
+                                ReturnExprStmt(
+                                  Expr(
+                                    NoUnaryMinus(
+                                    ) [NoUnaryMinus]
+                                    Term(
+                                      SingleFactor(
+                                        DesFactor(
+                                          Dsg(
+                                            NoDesUsing(
+                                             x
+                                            ) [NoDesUsing]
+                                          ) [Dsg]
+                                        ) [DesFactor]
+                                      ) [SingleFactor]
+                                    ) [Term]
+                                    NoAddTerm(
+                                    ) [NoAddTerm]
+                                  ) [Expr]
+                                ) [ReturnExprStmt]
+                              ) [Statements]
+                              ReturnExprStmt(
+                                Expr(
+                                  NoUnaryMinus(
+                                  ) [NoUnaryMinus]
+                                  Term(
+                                    SingleFactor(
+                                      DesFactor(
+                                        Dsg(
+                                          NoDesUsing(
+                                           true
+                                          ) [NoDesUsing]
+                                        ) [Dsg]
+                                      ) [DesFactor]
+                                    ) [SingleFactor]
+                                  ) [Term]
+                                  NoAddTerm(
+                                  ) [NoAddTerm]
+                                ) [Expr]
+                              ) [ReturnExprStmt]
+                            ) [Statements]
+                            ReturnExprStmt(
+                              Expr(
+                                NoUnaryMinus(
+                                ) [NoUnaryMinus]
+                                Term(
+                                  SingleFactor(
+                                    ExprFactor(
+                                      Expr(
+                                        NoUnaryMinus(
+                                        ) [NoUnaryMinus]
+                                        Term(
+                                          SingleFactor(
+                                            DesFactor(
+                                              Dsg(
+                                                NoDesUsing(
+                                                 x
+                                                ) [NoDesUsing]
+                                              ) [Dsg]
+                                            ) [DesFactor]
+                                          ) [SingleFactor]
+                                        ) [Term]
+                                        NoAddTerm(
+                                        ) [NoAddTerm]
+                                      ) [Expr]
+                                    ) [ExprFactor]
+                                  ) [SingleFactor]
+                                ) [Term]
+                                NoAddTerm(
+                                ) [NoAddTerm]
+                              ) [Expr]
+                            ) [ReturnExprStmt]
+                          ) [Statements]
+                          ReturnExprStmt(
+                            Expr(
+                              NoUnaryMinus(
+                              ) [NoUnaryMinus]
+                              Term(
+                                SingleFactor(
+                                  NewFactorArray(
+                                    NoUsingType(
+                                      TypeDecl(
+                                       int
+                                      ) [TypeDecl]
+                                    ) [NoUsingType]
+                                    Expr(
+                                      NoUnaryMinus(
+                                      ) [NoUnaryMinus]
+                                      Term(
+                                        SingleFactor(
+                                          DesFactor(
+                                            Dsg(
+                                              NoDesUsing(
+                                               x
+                                              ) [NoDesUsing]
+                                            ) [Dsg]
+                                          ) [DesFactor]
+                                        ) [SingleFactor]
+                                      ) [Term]
+                                      NoAddTerm(
+                                      ) [NoAddTerm]
+                                    ) [Expr]
+                                  ) [NewFactorArray]
+                                ) [SingleFactor]
+                              ) [Term]
+                              NoAddTerm(
+                              ) [NoAddTerm]
+                            ) [Expr]
+                          ) [ReturnExprStmt]
+                        ) [Statements]
+                        ReturnExprStmt(
+                          Expr(
+                            NoUnaryMinus(
+                            ) [NoUnaryMinus]
+                            Term(
+                              SingleFactor(
+                                NewFactorClass(
+                                  NoUsingType(
+                                    TypeDecl(
+                                     int
+                                    ) [TypeDecl]
+                                  ) [NoUsingType]
+                                  ActParDecls(
+                                    Expr(
+                                      NoUnaryMinus(
+                                      ) [NoUnaryMinus]
+                                      Term(
+                                        SingleFactor(
+                                          NumFactor(
+                                           5
+                                          ) [NumFactor]
+                                        ) [SingleFactor]
+                                      ) [Term]
+                                      NoAddTerm(
+                                      ) [NoAddTerm]
+                                    ) [Expr]
+                                    NoExprs(
+                                    ) [NoExprs]
+                                  ) [ActParDecls]
+                                ) [NewFactorClass]
+                              ) [SingleFactor]
+                            ) [Term]
+                            NoAddTerm(
+                            ) [NoAddTerm]
+                          ) [Expr]
+                        ) [ReturnExprStmt]
+                      ) [Statements]
+                      ReturnExprStmt(
+                        Expr(
+                          NoUnaryMinus(
+                          ) [NoUnaryMinus]
+                          Term(
+                            SingleFactor(
+                              NewFactorClass(
+                                NoUsingType(
+                                  TypeDecl(
+                                   int
+                                  ) [TypeDecl]
+                                ) [NoUsingType]
+                                NoActPars(
+                                ) [NoActPars]
+                              ) [NewFactorClass]
+                            ) [SingleFactor]
+                          ) [Term]
+                          NoAddTerm(
+                          ) [NoAddTerm]
+                        ) [Expr]
+                      ) [ReturnExprStmt]
+                    ) [Statements]
+                    ReturnExprStmt(
+                      Expr(
+                        NoUnaryMinus(
+                        ) [NoUnaryMinus]
+                        Term(
+                          SingleFactor(
+                            DesFunctionFactor(
+                              DesignatorFun(
+                                Dsg(
+                                  OneDesUsing(
+                                   klasa
+                                   klasa
+                                  ) [OneDesUsing]
+                                ) [Dsg]
+                              ) [DesignatorFun]
+                              ActParDecls(
+                                Expr(
+                                  NoUnaryMinus(
+                                  ) [NoUnaryMinus]
+                                  Term(
+                                    SingleFactor(
+                                      DesFactor(
+                                        Dsg(
+                                          NoDesUsing(
+                                           false
+                                          ) [NoDesUsing]
+                                        ) [Dsg]
+                                      ) [DesFactor]
+                                    ) [SingleFactor]
+                                  ) [Term]
+                                  NoAddTerm(
+                                  ) [NoAddTerm]
+                                ) [Expr]
+                                NoExprs(
+                                ) [NoExprs]
+                              ) [ActParDecls]
+                            ) [DesFunctionFactor]
+                          ) [SingleFactor]
+                        ) [Term]
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                      ) [Expr]
+                    ) [ReturnExprStmt]
+                  ) [Statements]
+                  SimplePrintStmt(
+                    BExprB(
+                      Expr(
+                        NoUnaryMinus(
+                        ) [NoUnaryMinus]
+                        Term(
+                          SingleFactor(
+                            DesFactor(
+                              Dsg(
+                                NoDesUsing(
+                                 x
+                                ) [NoDesUsing]
+                              ) [Dsg]
+                            ) [DesFactor]
+                          ) [SingleFactor]
+                        ) [Term]
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                      ) [Expr]
+                    ) [BExprB]
+                  ) [SimplePrintStmt]
+                ) [Statements]
+                PrintStmt(
+                  Expr(
+                    NoUnaryMinus(
+                    ) [NoUnaryMinus]
+                    Term(
+                      SingleFactor(
+                        DesFactor(
+                          Dsg(
+                            NoDesUsing(
+                             x
+                            ) [NoDesUsing]
+                          ) [Dsg]
+                        ) [DesFactor]
+                      ) [SingleFactor]
+                    ) [Term]
+                    NoAddTerm(
+                    ) [NoAddTerm]
+                  ) [Expr]
+                 5
+                ) [PrintStmt]
+              ) [Statements]
+              ReadStmt(
+                Dsg(
+                  OneDesUsing(
+                   klasa
+                   k
+                  ) [OneDesUsing]
+                ) [Dsg]
+              ) [ReadStmt]
+            ) [Statements]
+            IfElseStmt(
+              SingleCondition(
+                ConditionDecl(
+                  SingleCondTerm(
+                    CondFacts(
+                      Expr(
+                        NoUnaryMinus(
+                        ) [NoUnaryMinus]
+                        Term(
+                          SingleFactor(
+                            DesFactor(
+                              Dsg(
+                                NoDesUsing(
+                                 x
+                                ) [NoDesUsing]
+                              ) [Dsg]
+                            ) [DesFactor]
+                          ) [SingleFactor]
+                        ) [Term]
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                      ) [Expr]
+                      GreaterOp(
+                      ) [GreaterOp]
+                      Expr(
+                        NoUnaryMinus(
+                        ) [NoUnaryMinus]
+                        Term(
+                          SingleFactor(
+                            NumFactor(
+                             5
+                            ) [NumFactor]
+                          ) [SingleFactor]
+                        ) [Term]
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                      ) [Expr]
+                    ) [CondFacts]
+                  ) [SingleCondTerm]
+                ) [ConditionDecl]
+              ) [SingleCondition]
+              DStmt(
+                ErrorDesignatorAssign(
+                ) [ErrorDesignatorAssign]
+              ) [DStmt]
+              IfStmt(
+                SingleCondition(
+                  ConditionDecl(
+                    SingleCondTerm(
+                      CondFacts(
+                        Expr(
+                          NoUnaryMinus(
+                          ) [NoUnaryMinus]
+                          Term(
+                            SingleFactor(
+                              DesFactor(
+                                Dsg(
+                                  NoDesUsing(
+                                   x
+                                  ) [NoDesUsing]
+                                ) [Dsg]
+                              ) [DesFactor]
+                            ) [SingleFactor]
+                          ) [Term]
+                          NoAddTerm(
+                          ) [NoAddTerm]
+                        ) [Expr]
+                        EqualOp(
+                        ) [EqualOp]
+                        Expr(
+                          NoUnaryMinus(
+                          ) [NoUnaryMinus]
+                          Term(
+                            SingleFactor(
+                              NumFactor(
+                               7
+                              ) [NumFactor]
+                            ) [SingleFactor]
+                          ) [Term]
+                          NoAddTerm(
+                          ) [NoAddTerm]
+                        ) [Expr]
+                      ) [CondFacts]
+                    ) [SingleCondTerm]
+                  ) [ConditionDecl]
+                ) [SingleCondition]
+                ConitnueStmt(
+                ) [ConitnueStmt]
+              ) [IfStmt]
+            ) [IfElseStmt]
+          ) [Statements]
+        ) [MethodDecl]
+      ) [MethodDecls]
+    ) [NamespaceDeclaration]
+  ) [NamespaceDecls]
+  NoLists(
+  ) [NoLists]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  15:31:29,872 - ===================================
+INFO  15:31:29,882 -  Print count calls = 2
+INFO  15:31:29,882 -  Deklarisanih promenljivih ima = 0

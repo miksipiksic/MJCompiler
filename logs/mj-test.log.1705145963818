@@ -1,0 +1,41 @@
+INFO  12:38:25,516 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  12:38:25,575 - #2 program
+INFO  12:38:25,575 - #48 MJProgram
+INFO  12:38:25,576 - #5 namespace
+INFO  12:38:25,576 - #48 x
+INFO  12:38:25,576 - #3 {
+INFO  12:38:25,576 - #7 const
+INFO  12:38:25,576 - #48 int
+INFO  12:38:25,577 - #48 a
+INFO  12:38:25,579 - #8 =
+INFO  12:38:25,579 - #47 5
+INFO  12:38:25,579 - #6 ,
+INFO  12:38:25,580 - #48 b
+INFO  12:38:25,581 - #8 =
+INFO  12:38:25,581 - #47 7
+INFO  12:38:25,581 - #11 ;
+INFO  12:38:25,582 - #48 int
+INFO  12:38:25,584 - #48 x
+INFO  12:38:25,585 - #13 [
+INFO  12:38:25,585 - #14 ]
+INFO  12:38:25,585 - #6 ,
+INFO  12:38:25,588 - #48 y
+INFO  12:38:25,589 - #13 [
+INFO  12:38:25,591 - #14 ]
+INFO  12:38:25,591 - #11 ;
+INFO  12:38:25,594 - #48 int
+INFO  12:38:25,596 - #48 z
+INFO  12:38:25,597 - #6 ,
+INFO  12:38:25,598 - #48 o
+INFO  12:38:25,598 - #11 ;
+INFO  12:38:25,598 - #3 {
+INFO  12:38:25,600 - #48 int
+INFO  12:38:25,600 - #48 methd
+INFO  12:38:25,600 - #15 (
+INFO  12:38:25,601 - #16 )
+INFO  12:38:25,602 - #48 int
+INFO  12:38:25,602 - #48 x
+INFO  12:38:25,603 - #3 {
+ERROR 12:38:25,603 - 
+Sintaksna greska na liniji 9
+ERROR 12:38:25,603 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

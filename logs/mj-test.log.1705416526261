@@ -1,0 +1,135 @@
+INFO  15:48:21,485 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  15:48:21,913 - #2 program
+INFO  15:48:21,918 - #46 MJProgram
+INFO  15:48:21,919 - #5 namespace
+INFO  15:48:21,921 - #46 x
+INFO  15:48:21,921 - #3 {
+INFO  15:48:21,921 - #7 const
+INFO  15:48:21,924 - #46 int
+INFO  15:48:21,924 - #46 a
+INFO  15:48:21,935 - #8 =
+INFO  15:48:21,937 - #45 5
+INFO  15:48:21,937 - #6 ,
+INFO  15:48:21,943 - #46 b
+INFO  15:48:21,948 - #8 =
+INFO  15:48:21,952 - #45 7
+INFO  15:48:21,956 - #9 ;
+INFO  15:48:21,959 - #46 int
+INFO  15:48:21,974 - #46 x
+INFO  15:48:21,988 - #11 [
+INFO  15:48:21,992 - #12 ]
+INFO  15:48:21,997 - #6 ,
+INFO  15:48:22,004 - #46 y
+INFO  15:48:22,008 - #11 [
+INFO  15:48:22,009 - #12 ]
+INFO  15:48:22,010 - #9 ;
+INFO  15:48:22,011 - #46 int
+INFO  15:48:22,013 - #46 z
+INFO  15:48:22,014 - #6 ,
+INFO  15:48:22,015 - #46 o
+INFO  15:48:22,016 - #9 ;
+INFO  15:48:22,016 - #3 {
+INFO  15:48:22,019 - #4 }
+INFO  15:48:22,025 - #4 }
+INFO  15:48:22,026 - #3 {
+INFO  15:48:22,032 - #4 }
+INFO  15:48:22,068 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     x
+      VarList(
+        VarList(
+          ConstList(
+            NoList(
+            ) [NoList]
+            ConstDecl(
+              ConstType(
+                NoUsingType(
+                  TypeDecl(
+                   int
+                  ) [TypeDecl]
+                ) [NoUsingType]
+              ) [ConstType]
+              AddConst(
+                NumType(
+                 a
+                 5
+                ) [NumType]
+              ) [AddConst]
+              AddConstDecls(
+                NoAddConstDecls(
+                ) [NoAddConstDecls]
+                AddConst(
+                  NumType(
+                   b
+                   7
+                  ) [NumType]
+                ) [AddConst]
+              ) [AddConstDecls]
+            ) [ConstDecl]
+          ) [ConstList]
+          VarDecl(
+            VarType(
+              NoUsingType(
+                TypeDecl(
+                 int
+                ) [TypeDecl]
+              ) [NoUsingType]
+            ) [VarType]
+            AddVarDecls(
+              AddVarDecl(
+               x
+                AddSqBrackets(
+                ) [AddSqBrackets]
+              ) [AddVarDecl]
+              NoAddVarDecls(
+                EndVarDecl(
+                 y
+                  AddSqBrackets(
+                  ) [AddSqBrackets]
+                ) [EndVarDecl]
+              ) [NoAddVarDecls]
+            ) [AddVarDecls]
+          ) [VarDecl]
+        ) [VarList]
+        VarDecl(
+          VarType(
+            NoUsingType(
+              TypeDecl(
+               int
+              ) [TypeDecl]
+            ) [NoUsingType]
+          ) [VarType]
+          AddVarDecls(
+            AddVarDecl(
+             z
+              NoBrackets(
+              ) [NoBrackets]
+            ) [AddVarDecl]
+            NoAddVarDecls(
+              EndVarDecl(
+               o
+                NoBrackets(
+                ) [NoBrackets]
+              ) [EndVarDecl]
+            ) [NoAddVarDecls]
+          ) [AddVarDecls]
+        ) [VarDecl]
+      ) [VarList]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      EndOfNamespace(
+      ) [EndOfNamespace]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  NoList(
+  ) [NoList]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  15:48:22,069 - ===================================

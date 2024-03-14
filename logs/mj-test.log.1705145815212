@@ -1,0 +1,69 @@
+INFO  12:34:14,229 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  12:34:14,295 - #2 program
+INFO  12:34:14,296 - #48 MJProgram
+INFO  12:34:14,296 - #5 namespace
+INFO  12:34:14,296 - #48 x
+INFO  12:34:14,296 - #3 {
+INFO  12:34:14,296 - #7 const
+INFO  12:34:14,297 - #48 int
+INFO  12:34:14,297 - #48 a
+INFO  12:34:14,299 - #8 =
+INFO  12:34:14,300 - #47 5
+INFO  12:34:14,300 - #6 ,
+INFO  12:34:14,301 - #48 b
+INFO  12:34:14,301 - #8 =
+INFO  12:34:14,301 - #47 7
+INFO  12:34:14,302 - #11 ;
+INFO  12:34:14,302 - #3 {
+INFO  12:34:14,304 - #4 }
+INFO  12:34:14,305 - #4 }
+INFO  12:34:14,305 - #3 {
+INFO  12:34:14,307 - #4 }
+INFO  12:34:14,312 - Program(
+ MJProgram
+  NamespaceDecls(
+    NamespaceDeclaration(
+     x
+      ManyLists(
+        CList(
+          ConstDecl(
+            Type(
+             int
+              NoUsing(
+              ) [NoUsing]
+            ) [Type]
+            AddConst(
+             a
+              NumType(
+               5
+              ) [NumType]
+            ) [AddConst]
+            AddConstDecls(
+              AddConst(
+               b
+                NumType(
+                 7
+                ) [NumType]
+              ) [AddConst]
+              NoAddConstDecls(
+              ) [NoAddConstDecls]
+            ) [AddConstDecls]
+          ) [ConstDecl]
+        ) [CList]
+        NoLists(
+        ) [NoLists]
+      ) [ManyLists]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+    ) [NamespaceDeclaration]
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+  ) [NamespaceDecls]
+  NoLists(
+  ) [NoLists]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  12:34:14,313 - ===================================
+INFO  12:34:14,321 -  Print count calls = 0
+INFO  12:34:14,322 -  Deklarisanih promenljivih ima = 0

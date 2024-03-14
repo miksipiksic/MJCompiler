@@ -1,0 +1,200 @@
+INFO  13:06:30,326 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  13:06:30,387 - #2 program
+INFO  13:06:30,387 - #48 MJProgram
+INFO  13:06:30,387 - #5 namespace
+INFO  13:06:30,388 - #48 x
+INFO  13:06:30,388 - #3 {
+INFO  13:06:30,388 - #7 const
+INFO  13:06:30,388 - #48 int
+INFO  13:06:30,388 - #48 a
+INFO  13:06:30,391 - #8 =
+INFO  13:06:30,391 - #47 5
+INFO  13:06:30,391 - #6 ,
+INFO  13:06:30,392 - #48 b
+INFO  13:06:30,392 - #8 =
+INFO  13:06:30,392 - #47 7
+INFO  13:06:30,393 - #11 ;
+INFO  13:06:30,394 - #48 int
+INFO  13:06:30,396 - #48 x
+INFO  13:06:30,396 - #13 [
+INFO  13:06:30,396 - #14 ]
+INFO  13:06:30,397 - #6 ,
+INFO  13:06:30,399 - #48 y
+INFO  13:06:30,399 - #13 [
+INFO  13:06:30,402 - #14 ]
+INFO  13:06:30,402 - #11 ;
+INFO  13:06:30,403 - #48 int
+INFO  13:06:30,405 - #48 z
+INFO  13:06:30,405 - #6 ,
+INFO  13:06:30,406 - #48 o
+INFO  13:06:30,406 - #11 ;
+INFO  13:06:30,406 - #3 {
+INFO  13:06:30,407 - #48 int
+INFO  13:06:30,408 - #48 methd
+INFO  13:06:30,408 - #15 (
+INFO  13:06:30,408 - #48 integer
+INFO  13:06:30,408 - #12 :
+INFO  13:06:30,408 - #12 :
+INFO  13:06:30,409 - #48 int
+INFO  13:06:30,410 - #48 x
+INFO  13:06:30,411 - #6 ,
+INFO  13:06:30,413 - #48 double
+INFO  13:06:30,413 - #48 y
+INFO  13:06:30,413 - #13 [
+INFO  13:06:30,414 - #14 ]
+INFO  13:06:30,414 - #16 )
+INFO  13:06:30,416 - #3 {
+INFO  13:06:30,417 - #18 break
+INFO  13:06:30,417 - #11 ;
+INFO  13:06:30,417 - #4 }
+INFO  13:06:30,418 - #4 }
+INFO  13:06:30,420 - #4 }
+INFO  13:06:30,420 - #3 {
+INFO  13:06:30,421 - #4 }
+INFO  13:06:30,430 - Program(
+ MJProgram
+  NamespaceDecls(
+    NamespaceDeclaration(
+     x
+      ManyLists(
+        CList(
+          ConstDecl(
+            Type(
+             int
+              NoUsing(
+              ) [NoUsing]
+            ) [Type]
+            AddConst(
+             a
+              NumType(
+               5
+              ) [NumType]
+            ) [AddConst]
+            AddConstDecls(
+              AddConst(
+               b
+                NumType(
+                 7
+                ) [NumType]
+              ) [AddConst]
+              NoAddConstDecls(
+              ) [NoAddConstDecls]
+            ) [AddConstDecls]
+          ) [ConstDecl]
+        ) [CList]
+        ManyLists(
+          VList(
+            VarDecl(
+              Type(
+               int
+                NoUsing(
+                ) [NoUsing]
+              ) [Type]
+              AddVar(
+               x
+                AddSqBrackets(
+                ) [AddSqBrackets]
+              ) [AddVar]
+              AddVarDecls(
+                AddVar(
+                 y
+                  AddSqBrackets(
+                  ) [AddSqBrackets]
+                ) [AddVar]
+                NoAddVarDecls(
+                ) [NoAddVarDecls]
+              ) [AddVarDecls]
+            ) [VarDecl]
+          ) [VList]
+          ManyLists(
+            VList(
+              VarDecl(
+                Type(
+                 int
+                  NoUsing(
+                  ) [NoUsing]
+                ) [Type]
+                AddVar(
+                 z
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [AddVar]
+                AddVarDecls(
+                  AddVar(
+                   o
+                    NoBrackets(
+                    ) [NoBrackets]
+                  ) [AddVar]
+                  NoAddVarDecls(
+                  ) [NoAddVarDecls]
+                ) [AddVarDecls]
+              ) [VarDecl]
+            ) [VList]
+            NoLists(
+            ) [NoLists]
+          ) [ManyLists]
+        ) [ManyLists]
+      ) [ManyLists]
+      MethodDecls(
+        MethodDecl(
+          SimpleRetType(
+            Type(
+             int
+              NoUsing(
+              ) [NoUsing]
+            ) [Type]
+          ) [SimpleRetType]
+         methd
+          FormalPars(
+            FormalParam(
+              AddFormal(
+                Type(
+                 integer
+                  UsingTypeDecl(
+                   int
+                  ) [UsingTypeDecl]
+                ) [Type]
+               x
+                NoBrackets(
+                ) [NoBrackets]
+              ) [AddFormal]
+              AddFormals(
+                AddFormal(
+                  Type(
+                   double
+                    NoUsing(
+                    ) [NoUsing]
+                  ) [Type]
+                 y
+                  AddSqBrackets(
+                  ) [AddSqBrackets]
+                ) [AddFormal]
+                NoAddFormals(
+                ) [NoAddFormals]
+              ) [AddFormals]
+            ) [FormalParam]
+          ) [FormalPars]
+          NoVarDecls(
+          ) [NoVarDecls]
+          Statements(
+            BreakStmt(
+            ) [BreakStmt]
+            NoStatement(
+            ) [NoStatement]
+          ) [Statements]
+        ) [MethodDecl]
+        NoMethodDecl(
+        ) [NoMethodDecl]
+      ) [MethodDecls]
+    ) [NamespaceDeclaration]
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+  ) [NamespaceDecls]
+  NoLists(
+  ) [NoLists]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  13:06:30,431 - ===================================
+INFO  13:06:30,439 -  Print count calls = 0
+INFO  13:06:30,439 -  Deklarisanih promenljivih ima = 2

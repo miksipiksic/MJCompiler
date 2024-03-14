@@ -1,0 +1,14 @@
+INFO  14:54:16,709 - Compiling source file: C:\Users\vm200325d\pp1_projekat\workspace\MJCompiler\test\program.mj
+INFO  14:54:17,674 - #2 program
+INFO  14:54:17,674 - #46 MJProgram
+INFO  14:54:17,674 - #5 namespace
+INFO  14:54:17,681 - #46 x
+INFO  14:54:17,681 - #3 {
+INFO  14:54:17,682 - #7 const
+INFO  14:54:17,684 - #46 int
+INFO  14:54:17,685 - #46 a
+INFO  14:54:17,690 - #8 =
+INFO  14:54:17,690 - #6 ,
+ERROR 14:54:17,691 - 
+Sintaksna greska na liniji 4
+ERROR 14:54:17,691 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4
